@@ -83,9 +83,8 @@ window.WORDS = {{WORDS}};
     var vs = ('speechSynthesis' in window) ? speechSynthesis.getVoices() : [];
     var us = vs.filter(function(x){return /^en[-_]US/i.test(x.lang);});
     var en = vs.filter(function(x){return /^en/i.test(x.lang);});
-    chosen = us.filter(function(x){return MALE.test(x.name) || MALE.test(x.voiceURI||'');})[0]
-          || en.filter(function(x){return MALE.test(x.name) || MALE.test(x.voiceURI||'');})[0]
-          || us[0] || en[0] || null;
+    var isM = function(x){return MALE.test(x.name) || MALE.test(x.voiceURI||'');};
+    chosen = us.filter(isM)[0] || us[0] || en.filter(isM)[0] || en[0] || null;
   }
   if('speechSynthesis' in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
   function speak(t){
