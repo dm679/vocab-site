@@ -23,10 +23,12 @@ if __name__ == "__main__":
                 continue
             wav = mp3[:-4] + ".wav"
             with wave.open(wav, "wb") as f:
+                text = speak_text(w["word"])
                 if hasattr(voice, "synthesize_wav"):
-                    voice.synthesize_wav(speak_text(w["word"]), f)
+                    from piper import SynthesisConfig
+                    voice.synthesize_wav(text, f, syn_config=SynthesisConfig(length_scale=1.3))
                 else:
-                    voice.synthesize(speak_text(w["word"]), f)
-            subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", wav, "-ac", "1", "-b:a", "48k", mp3], check=True)
+                    voice.synthesize(text, f, length_scale=1.3)
+            subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", wav, "-af", "adelay=120,apad=pad_dur=0.25", "-ac", "1", "-b:a", "64k", mp3], check=True)
             os.remove(wav); made += 1
     print("new audio files:", made)
