@@ -2,7 +2,7 @@
  {
   "word": "Hello!",
   "pos": "phr",
-  "ipa": "[həˈləʊ]",
+  "ipa": "[həˈloʊ]",
   "tr": "привіт"
  },
  {
@@ -14,13 +14,13 @@
  {
   "word": "Good morning",
   "pos": "phr",
-  "ipa": "[ɡʊd ˈmɔː.nɪŋ]",
+  "ipa": "[ɡʊd ˈmɔːr.nɪŋ]",
   "tr": "доброго ранку"
  },
  {
   "word": "Good afternoon",
   "pos": "phr",
-  "ipa": "[ɡʊd ˌɑːf.təˈnuːn]",
+  "ipa": "[ɡʊd ˌæf.tɚˈnuːn]",
   "tr": "добрий день"
  },
  {
@@ -32,31 +32,31 @@
  {
   "word": "Hi there",
   "pos": "phr",
-  "ipa": "[haɪ ðeə]",
+  "ipa": "[haɪ ðer]",
   "tr": "привіт"
  },
  {
   "word": "What's up?",
   "pos": "phr",
-  "ipa": "[wɒts ˈʌp]",
+  "ipa": "[wʌts ˈʌp]",
   "tr": "як ти? (вітання)"
  },
  {
   "word": "What's new?",
   "pos": "phr",
-  "ipa": "[wɒts ˈnjuː]",
+  "ipa": "[wʌts ˈnuː]",
   "tr": "що нового?"
  },
  {
   "word": "How are you doing?",
   "pos": "phr",
-  "ipa": "[haʊ ə juː ˈduː.ɪŋ]",
+  "ipa": "[haʊ ɚ juː ˈduː.ɪŋ]",
   "tr": "як справи?"
  },
  {
-  "word": "colours",
+  "word": "colors",
   "pos": "n",
-  "ipa": "[ˈkʌl.əz]",
+  "ipa": "[ˈkʌl.ɚz]",
   "tr": "кольори"
  },
  {
@@ -68,13 +68,13 @@
  {
   "word": "orange",
   "pos": "adj",
-  "ipa": "[ˈɒr.ɪndʒ]",
+  "ipa": "[ˈɔːr.ɪndʒ]",
   "tr": "помаранчевий"
  },
  {
   "word": "yellow",
   "pos": "adj",
-  "ipa": "[ˈjel.əʊ]",
+  "ipa": "[ˈjel.oʊ]",
   "tr": "жовтий"
  },
  {
@@ -92,7 +92,7 @@
  {
   "word": "purple",
   "pos": "adj",
-  "ipa": "[ˈpɜː.pəl]",
+  "ipa": "[ˈpɝː.pəl]",
   "tr": "пурпурний, фіолетовий"
  },
  {
@@ -108,7 +108,7 @@
   "tr": "коричневий"
  },
  {
-  "word": "grey",
+  "word": "gray",
   "pos": "adj",
   "ipa": "[ɡreɪ]",
   "tr": "сірий"
@@ -128,25 +128,25 @@
  {
   "word": "gold",
   "pos": "adj",
-  "ipa": "[ɡəʊld]",
+  "ipa": "[ɡoʊld]",
   "tr": "золотий"
  },
  {
   "word": "an elephant",
   "pos": "n",
-  "ipa": "[ˈel.ɪ.fənt]",
+  "ipa": "[ˈel.ə.fənt]",
   "tr": "слон"
  },
  {
   "word": "a bear",
   "pos": "n",
-  "ipa": "[beə]",
+  "ipa": "[ber]",
   "tr": "ведмідь"
  },
  {
   "word": "a zebra",
   "pos": "n",
-  "ipa": "[ˈzeb.rə]",
+  "ipa": "[ˈziː.brə]",
   "tr": "зебра"
  },
  {
@@ -158,7 +158,7 @@
  {
   "word": "a giraffe",
   "pos": "n",
-  "ipa": "[dʒɪˈrɑːf]",
+  "ipa": "[dʒəˈræf]",
   "tr": "жираф"
  },
  {
@@ -170,19 +170,19 @@
  {
   "word": "a rhinoceros",
   "pos": "n",
-  "ipa": "[raɪˈnɒs.ər.əs]",
+  "ipa": "[raɪˈnɑː.sɚ.əs]",
   "tr": "носоріг"
  },
  {
   "word": "an alligator",
   "pos": "n",
-  "ipa": "[ˈæl.ɪ.ɡeɪ.tə]",
+  "ipa": "[ˈæl.ə.ɡeɪ.t̬ɚ]",
   "tr": "алігатор"
  },
  {
   "word": "a crocodile",
   "pos": "n",
-  "ipa": "[ˈkrɒk.ə.daɪl]",
+  "ipa": "[ˈkrɑː.kə.daɪl]",
   "tr": "крокодил"
  },
  {
@@ -194,25 +194,25 @@
  {
   "word": "a tiger",
   "pos": "n",
-  "ipa": "[ˈtaɪ.ɡə]",
+  "ipa": "[ˈtaɪ.ɡɚ]",
   "tr": "тигр"
  },
  {
   "word": "a koala",
   "pos": "n",
-  "ipa": "[kəʊˈɑː.lə]",
+  "ipa": "[koʊˈɑː.lə]",
   "tr": "коала"
  },
  {
   "word": "a hippo",
   "pos": "n",
-  "ipa": "[ˈhɪp.əʊ]",
+  "ipa": "[ˈhɪp.oʊ]",
   "tr": "бегемот"
  },
  {
   "word": "a hippopotamus",
   "pos": "n",
-  "ipa": "[ˌhɪp.əˈpɒt.ə.məs]",
+  "ipa": "[ˌhɪp.əˈpɑː.t̬ə.məs]",
   "tr": "гіпопотам"
  },
  {
@@ -224,13 +224,13 @@
  {
   "word": "an animal",
   "pos": "n",
-  "ipa": "[ˈæn.ɪ.məl]",
+  "ipa": "[ˈæn.ə.məl]",
   "tr": "тварина"
  },
  {
   "word": "rainbow 🌈",
   "pos": "n",
-  "ipa": "[ˈreɪn.bəʊ]",
+  "ipa": "[ˈreɪn.boʊ]",
   "tr": "веселка"
  },
  {
@@ -254,7 +254,7 @@
  {
   "word": "chair",
   "pos": "n",
-  "ipa": "[tʃeə]",
+  "ipa": "[tʃer]",
   "tr": "стілець"
  },
  {
@@ -266,25 +266,25 @@
  {
   "word": "curtains",
   "pos": "n",
-  "ipa": "[ˈkɜː.tənz]",
+  "ipa": "[ˈkɝː.tənz]",
   "tr": "штори"
  },
  {
   "word": "wall",
   "pos": "n",
-  "ipa": "[wɔːl]",
+  "ipa": "[wɑːl]",
   "tr": "стіна"
  },
  {
   "word": "window",
   "pos": "n",
-  "ipa": "[ˈwɪn.dəʊ]",
+  "ipa": "[ˈwɪn.doʊ]",
   "tr": "вікно"
  },
  {
   "word": "door",
   "pos": "n",
-  "ipa": "[dɔː]",
+  "ipa": "[dɔːr]",
   "tr": "двері"
  },
  {
@@ -296,13 +296,13 @@
  {
   "word": "plant",
   "pos": "n",
-  "ipa": "[plɑːnt]",
+  "ipa": "[plænt]",
   "tr": "рослина"
  },
  {
   "word": "computer",
   "pos": "n",
-  "ipa": "[kəmˈpjuː.tə]",
+  "ipa": "[kəmˈpjuː.t̬ɚ]",
   "tr": "комп'ютер"
  },
  {
@@ -314,7 +314,7 @@
  {
   "word": "false",
   "pos": "adj",
-  "ipa": "[fɔːls]",
+  "ipa": "[fɑːls]",
   "tr": "неправда"
  },
  {
@@ -326,7 +326,7 @@
  {
   "word": "teddy bear",
   "pos": "n",
-  "ipa": "[ˈted.i ˌbeə]",
+  "ipa": "[ˈted.i ˌber]",
   "tr": "іграшковий ведмедик"
  },
  {
@@ -350,7 +350,7 @@
  {
   "word": "dog",
   "pos": "n",
-  "ipa": "[dɒɡ]",
+  "ipa": "[dɑːɡ]",
   "tr": "собака"
  },
  {
@@ -362,7 +362,7 @@
  {
   "word": "paw",
   "pos": "n",
-  "ipa": "[pɔː]",
+  "ipa": "[pɑː]",
   "tr": "лапа"
  },
  {
@@ -374,7 +374,7 @@
  {
   "word": "hero",
   "pos": "n",
-  "ipa": "[ˈhɪə.rəʊ]",
+  "ipa": "[ˈhɪr.oʊ]",
   "tr": "герой"
  },
  {
@@ -398,19 +398,19 @@
  {
   "word": "farm",
   "pos": "n",
-  "ipa": "[fɑːm]",
+  "ipa": "[fɑːrm]",
   "tr": "ферма"
  },
  {
   "word": "mirror",
   "pos": "n",
-  "ipa": "[ˈmɪr.ə]",
+  "ipa": "[ˈmɪr.ɚ]",
   "tr": "дзеркало"
  },
  {
   "word": "pillow",
   "pos": "n",
-  "ipa": "[ˈpɪl.əʊ]",
+  "ipa": "[ˈpɪl.oʊ]",
   "tr": "подушка"
  },
  {
@@ -422,7 +422,7 @@
  {
   "word": "wardrobe",
   "pos": "n",
-  "ipa": "[ˈwɔː.drəʊb]",
+  "ipa": "[ˈwɔːr.droʊb]",
   "tr": "шафа для одягу"
  },
  {
@@ -434,13 +434,13 @@
  {
   "word": "carpet",
   "pos": "n",
-  "ipa": "[ˈkɑː.pɪt]",
+  "ipa": "[ˈkɑːr.pət]",
   "tr": "килим"
  },
  {
   "word": "floor",
   "pos": "n",
-  "ipa": "[flɔː]",
+  "ipa": "[flɔːr]",
   "tr": "підлога"
  },
  {
@@ -452,7 +452,7 @@
  {
   "word": "bathroom",
   "pos": "n",
-  "ipa": "[ˈbɑːθ.ruːm]",
+  "ipa": "[ˈbæθ.ruːm]",
   "tr": "ванна кімната"
  },
  {
@@ -554,7 +554,7 @@
  {
   "word": "walk",
   "pos": "v",
-  "ipa": "[wɔːk]",
+  "ipa": "[wɑːk]",
   "tr": "ходити"
  },
  {
@@ -578,7 +578,7 @@
  {
   "word": "play the guitar",
   "pos": "phr",
-  "ipa": "[ˌpleɪ ðə ɡɪˈtɑː]",
+  "ipa": "[ˌpleɪ ðə ɡɪˈtɑːr]",
   "tr": "грати на гітарі"
  },
  {
@@ -614,7 +614,7 @@
  {
   "word": "dance",
   "pos": "v",
-  "ipa": "[dɑːns]",
+  "ipa": "[dæns]",
   "tr": "танцювати"
  },
  {
@@ -626,19 +626,19 @@
  {
   "word": "twenty",
   "pos": "num",
-  "ipa": "[ˈtwen.ti]",
+  "ipa": "[ˈtwen.t̬i]",
   "tr": "20"
  },
  {
   "word": "thirty",
   "pos": "num",
-  "ipa": "[ˈθɜː.ti]",
+  "ipa": "[ˈθɝː.t̬i]",
   "tr": "30"
  },
  {
   "word": "forty",
   "pos": "num",
-  "ipa": "[ˈfɔː.ti]",
+  "ipa": "[ˈfɔːr.t̬i]",
   "tr": "40"
  },
  {
@@ -656,19 +656,19 @@
  {
   "word": "seventy",
   "pos": "num",
-  "ipa": "[ˈsev.ən.ti]",
+  "ipa": "[ˈsev.ən.t̬i]",
   "tr": "70"
  },
  {
   "word": "eighty",
   "pos": "num",
-  "ipa": "[ˈeɪ.ti]",
+  "ipa": "[ˈeɪ.t̬i]",
   "tr": "80"
  },
  {
   "word": "ninety",
   "pos": "num",
-  "ipa": "[ˈnaɪn.ti]",
+  "ipa": "[ˈnaɪn.t̬i]",
   "tr": "90"
  },
  {
@@ -692,19 +692,19 @@
  {
   "word": "ball",
   "pos": "n",
-  "ipa": "[bɔːl]",
+  "ipa": "[bɑːl]",
   "tr": "м'ячик"
  },
  {
   "word": "doll",
   "pos": "n",
-  "ipa": "[dɒl]",
+  "ipa": "[dɑːl]",
   "tr": "лялька"
  },
  {
   "word": "bird",
   "pos": "n",
-  "ipa": "[bɜːd]",
+  "ipa": "[bɝːd]",
   "tr": "пташка"
  },
  {
@@ -740,19 +740,19 @@
  {
   "word": "artist",
   "pos": "n",
-  "ipa": "[ˈɑː.tɪst]",
+  "ipa": "[ˈɑːr.t̬ɪst]",
   "tr": "художник"
  },
  {
   "word": "actor",
   "pos": "n",
-  "ipa": "[ˈæk.tə]",
+  "ipa": "[ˈæk.tɚ]",
   "tr": "актор"
  },
  {
   "word": "dentist",
   "pos": "n",
-  "ipa": "[ˈden.tɪst]",
+  "ipa": "[ˈden.t̬ɪst]",
   "tr": "стоматолог"
  },
  {
@@ -764,25 +764,25 @@
  {
   "word": "fireman",
   "pos": "n",
-  "ipa": "[ˈfaɪə.mən]",
+  "ipa": "[ˈfaɪr.mən]",
   "tr": "пожежник"
  },
  {
   "word": "open",
   "pos": "v",
-  "ipa": "[ˈəʊ.pən]",
+  "ipa": "[ˈoʊ.pən]",
   "tr": "відкривати"
  },
  {
   "word": "letter",
   "pos": "n",
-  "ipa": "[ˈlet.ə]",
+  "ipa": "[ˈlet̬.ɚ]",
   "tr": "лист, літера"
  },
  {
   "word": "Hooray!",
   "pos": "phr",
-  "ipa": "[huˈreɪ]",
+  "ipa": "[hʊˈreɪ]",
   "tr": "ура!"
  },
  {
@@ -800,7 +800,7 @@
  {
   "word": "watch",
   "pos": "v",
-  "ipa": "[wɒtʃ]",
+  "ipa": "[wɑːtʃ]",
   "tr": "дивитися"
  },
  {
@@ -818,13 +818,13 @@
  {
   "word": "work",
   "pos": "v",
-  "ipa": "[wɜːk]",
+  "ipa": "[wɝːk]",
   "tr": "працювати"
  },
  {
   "word": "wash",
   "pos": "v",
-  "ipa": "[wɒʃ]",
+  "ipa": "[wɑːʃ]",
   "tr": "мити"
  },
  {
@@ -866,7 +866,7 @@
  {
   "word": "go",
   "pos": "v",
-  "ipa": "[ɡəʊ]",
+  "ipa": "[ɡoʊ]",
   "tr": "йти"
  },
  {
@@ -884,7 +884,7 @@
  {
   "word": "learn",
   "pos": "v",
-  "ipa": "[lɜːn]",
+  "ipa": "[lɝːn]",
   "tr": "вчитися, навчатися"
  },
  {
@@ -896,7 +896,7 @@
  {
   "word": "always",
   "pos": "adv",
-  "ipa": "[ˈɔːl.weɪz]",
+  "ipa": "[ˈɑːl.weɪz]",
   "tr": "завжди"
  },
  {
@@ -920,13 +920,13 @@
  {
   "word": "often",
   "pos": "adv",
-  "ipa": "[ˈɒf.ən]",
+  "ipa": "[ˈɑː.fən]",
   "tr": "часто"
  },
  {
   "word": "never",
   "pos": "adv",
-  "ipa": "[ˈnev.ə]",
+  "ipa": "[ˈnev.ɚ]",
   "tr": "ніколи"
  },
  {
@@ -938,7 +938,7 @@
  {
   "word": "No",
   "pos": "adv",
-  "ipa": "[nəʊ]",
+  "ipa": "[noʊ]",
   "tr": "ні"
  },
  {
@@ -974,7 +974,7 @@
  {
   "word": "draw",
   "pos": "v",
-  "ipa": "[drɔː]",
+  "ipa": "[drɑː]",
   "tr": "малювати"
  },
  {
@@ -998,25 +998,25 @@
  {
   "word": "hamster",
   "pos": "n",
-  "ipa": "[ˈhæm.stə]",
+  "ipa": "[ˈhæm.stɚ]",
   "tr": "хом'як"
  },
  {
   "word": "garden",
   "pos": "n",
-  "ipa": "[ˈɡɑː.dən]",
+  "ipa": "[ˈɡɑːr.dən]",
   "tr": "сад"
  },
  {
   "word": "art",
   "pos": "n",
-  "ipa": "[ɑːt]",
+  "ipa": "[ɑːrt]",
   "tr": "мистецтво"
  },
  {
   "word": "talented",
   "pos": "adj",
-  "ipa": "[ˈtæl.ən.tɪd]",
+  "ipa": "[ˈtæl.ən.t̬ɪd]",
   "tr": "талановитий"
  },
  {
@@ -1040,7 +1040,7 @@
  {
   "word": "Those",
   "pos": "pron",
-  "ipa": "[ðəʊz]",
+  "ipa": "[ðoʊz]",
   "tr": "ті (багато, далеко)"
  },
  {
@@ -1052,49 +1052,49 @@
  {
   "word": "mother",
   "pos": "n",
-  "ipa": "[ˈmʌð.ə]",
+  "ipa": "[ˈmʌð.ɚ]",
   "tr": "мати"
  },
  {
   "word": "father",
   "pos": "n",
-  "ipa": "[ˈfɑː.ðə]",
+  "ipa": "[ˈfɑː.ðɚ]",
   "tr": "батько"
  },
  {
   "word": "sister",
   "pos": "n",
-  "ipa": "[ˈsɪs.tə]",
+  "ipa": "[ˈsɪs.tɚ]",
   "tr": "сестра"
  },
  {
   "word": "brother",
   "pos": "n",
-  "ipa": "[ˈbrʌð.ə]",
+  "ipa": "[ˈbrʌð.ɚ]",
   "tr": "брат"
  },
  {
   "word": "grandmother",
   "pos": "n",
-  "ipa": "[ˈɡræn.mʌð.ə]",
+  "ipa": "[ˈɡræn.mʌð.ɚ]",
   "tr": "бабуся"
  },
  {
   "word": "grandfather",
   "pos": "n",
-  "ipa": "[ˈɡræn.fɑː.ðə]",
+  "ipa": "[ˈɡræn.fɑː.ðɚ]",
   "tr": "дідусь"
  },
  {
   "word": "unicorn",
   "pos": "n",
-  "ipa": "[ˈjuː.nɪ.kɔːn]",
+  "ipa": "[ˈjuː.nə.kɔːrn]",
   "tr": "єдиноріг"
  },
  {
   "word": "dog",
   "pos": "n",
-  "ipa": "[dɒɡ]",
+  "ipa": "[dɑːɡ]",
   "tr": "собака"
  },
  {
@@ -1106,7 +1106,7 @@
  {
   "word": "nurse",
   "pos": "n",
-  "ipa": "[nɜːs]",
+  "ipa": "[nɝːs]",
   "tr": "медсестра"
  },
  {
@@ -1130,25 +1130,25 @@
  {
   "word": "What is this?",
   "pos": "phr",
-  "ipa": "[ˌwɒt ɪz ˈðɪs]",
+  "ipa": "[ˌwʌt ɪz ˈðɪs]",
   "tr": "що це?"
  },
  {
   "word": "What?",
   "pos": "pron",
-  "ipa": "[wɒt]",
+  "ipa": "[wʌt]",
   "tr": "що?"
  },
  {
   "word": "new",
   "pos": "adj",
-  "ipa": "[njuː]",
+  "ipa": "[nuː]",
   "tr": "новий"
  },
  {
   "word": "mobile phone",
   "pos": "n",
-  "ipa": "[ˌməʊ.baɪl ˈfəʊn]",
+  "ipa": "[ˌmoʊ.bəl ˈfoʊn]",
   "tr": "мобільний телефон"
  },
  {
@@ -1184,19 +1184,19 @@
  {
   "word": "do homework",
   "pos": "phr",
-  "ipa": "[ˌduː ˈhəʊm.wɜːk]",
+  "ipa": "[ˌduː ˈhoʊm.wɝːk]",
   "tr": "робити домашнє завдання"
  },
  {
   "word": "after school",
   "pos": "phr",
-  "ipa": "[ˌɑːf.tə ˈskuːl]",
+  "ipa": "[ˌæf.tɚ ˈskuːl]",
   "tr": "після школи"
  },
  {
   "word": "go to bed",
   "pos": "phr",
-  "ipa": "[ˌɡəʊ tə ˈbed]",
+  "ipa": "[ˌɡoʊ tə ˈbed]",
   "tr": "лягати спати"
  },
  {
@@ -1208,19 +1208,19 @@
  {
   "word": "listen to the radio",
   "pos": "phr",
-  "ipa": "[ˌlɪs.ən tə ðə ˈreɪ.di.əʊ]",
+  "ipa": "[ˌlɪs.ən tə ðə ˈreɪ.di.oʊ]",
   "tr": "слухати радіо"
  },
  {
   "word": "read a newspaper",
   "pos": "phr",
-  "ipa": "[ˌriːd ə ˈnjuːzˌpeɪ.pə]",
+  "ipa": "[ˌriːd ə ˈnuːzˌpeɪ.pɚ]",
   "tr": "читати газету"
  },
  {
   "word": "water the flowers",
   "pos": "phr",
-  "ipa": "[ˌwɔː.tə ðə ˈflaʊ.əz]",
+  "ipa": "[ˌwɑː.t̬ɚ ðə ˈflaʊ.ɚz]",
   "tr": "поливати квіти"
  },
  {
@@ -1238,19 +1238,19 @@
  {
   "word": "ball",
   "pos": "n",
-  "ipa": "[bɔːl]",
+  "ipa": "[bɑːl]",
   "tr": "м'ячик"
  },
  {
   "word": "doll",
   "pos": "n",
-  "ipa": "[dɒl]",
+  "ipa": "[dɑːl]",
   "tr": "лялька"
  },
  {
   "word": "car",
   "pos": "n",
-  "ipa": "[kɑː]",
+  "ipa": "[kɑːr]",
   "tr": "машинка"
  },
  {
@@ -1292,13 +1292,13 @@
  {
   "word": "scooter",
   "pos": "n",
-  "ipa": "[ˈskuː.tə]",
+  "ipa": "[ˈskuː.t̬ɚ]",
   "tr": "самокат"
  },
  {
   "word": "robot",
   "pos": "n",
-  "ipa": "[ˈrəʊ.bɒt]",
+  "ipa": "[ˈroʊ.bɑːt]",
   "tr": "робот"
  },
  {
@@ -1310,7 +1310,7 @@
  {
   "word": "Happy New Year!",
   "pos": "phr",
-  "ipa": "[ˌhæp.i njuː ˈjɪə]",
+  "ipa": "[ˌhæp.i nuː ˈjɪr]",
   "tr": "з Новим роком!"
  },
  {
@@ -1322,25 +1322,25 @@
  {
   "word": "snow",
   "pos": "n",
-  "ipa": "[snəʊ]",
+  "ipa": "[snoʊ]",
   "tr": "сніг"
  },
  {
   "word": "snowflake",
   "pos": "n",
-  "ipa": "[ˈsnəʊ.fleɪk]",
+  "ipa": "[ˈsnoʊ.fleɪk]",
   "tr": "сніжинка"
  },
  {
   "word": "snowman",
   "pos": "n",
-  "ipa": "[ˈsnəʊ.mæn]",
+  "ipa": "[ˈsnoʊ.mæn]",
   "tr": "сніговик"
  },
  {
   "word": "Santa Claus",
   "pos": "n",
-  "ipa": "[ˈsæn.tə ˌklɔːz]",
+  "ipa": "[ˈsæn.t̬ə ˌklɑːz]",
   "tr": "Санта Клаус (Св. Миколай)"
  },
  {
@@ -1352,13 +1352,13 @@
  {
   "word": "snowball",
   "pos": "n",
-  "ipa": "[ˈsnəʊ.bɔːl]",
+  "ipa": "[ˈsnoʊ.bɑːl]",
   "tr": "сніжок"
  },
  {
   "word": "Happy Holidays!",
   "pos": "phr",
-  "ipa": "[ˌhæp.i ˈhɒl.ə.deɪz]",
+  "ipa": "[ˌhæp.i ˈhɑː.lə.deɪz]",
   "tr": "зі святами!"
  },
  {
@@ -1376,31 +1376,31 @@
  {
   "word": "small",
   "pos": "adj",
-  "ipa": "[smɔːl]",
+  "ipa": "[smɑːl]",
   "tr": "маленький"
  },
  {
   "word": "tall",
   "pos": "adj",
-  "ipa": "[tɔːl]",
+  "ipa": "[tɑːl]",
   "tr": "високий"
  },
  {
   "word": "short",
   "pos": "adj",
-  "ipa": "[ʃɔːt]",
+  "ipa": "[ʃɔːrt]",
   "tr": "низький, короткий"
  },
  {
   "word": "long",
   "pos": "adj",
-  "ipa": "[lɒŋ]",
+  "ipa": "[lɑːŋ]",
   "tr": "довгий"
  },
  {
   "word": "girl",
   "pos": "n",
-  "ipa": "[ɡɜːl]",
+  "ipa": "[ɡɝːl]",
   "tr": "дівчинка"
  },
  {
@@ -1424,19 +1424,19 @@
  {
   "word": "soft",
   "pos": "adj",
-  "ipa": "[sɒft]",
+  "ipa": "[sɑːft]",
   "tr": "м'який"
  },
  {
   "word": "flower",
   "pos": "n",
-  "ipa": "[ˈflaʊ.ə]",
+  "ipa": "[ˈflaʊ.ɚ]",
   "tr": "квітка"
  },
  {
   "word": "horse",
   "pos": "n",
-  "ipa": "[hɔːs]",
+  "ipa": "[hɔːrs]",
   "tr": "кінь"
  },
  {
@@ -1460,7 +1460,7 @@
  {
   "word": "Tuesday",
   "pos": "n",
-  "ipa": "[ˈtjuːz.deɪ]",
+  "ipa": "[ˈtuːz.deɪ]",
   "tr": "вівторок"
  },
  {
@@ -1472,7 +1472,7 @@
  {
   "word": "Thursday",
   "pos": "n",
-  "ipa": "[ˈθɜːz.deɪ]",
+  "ipa": "[ˈθɝːz.deɪ]",
   "tr": "четвер"
  },
  {
@@ -1484,7 +1484,7 @@
  {
   "word": "Saturday",
   "pos": "n",
-  "ipa": "[ˈsæt.ə.deɪ]",
+  "ipa": "[ˈsæt̬.ɚ.deɪ]",
   "tr": "субота"
  },
  {
@@ -1496,19 +1496,19 @@
  {
   "word": "go to",
   "pos": "phr",
-  "ipa": "[ˈɡəʊ tuː]",
+  "ipa": "[ˈɡoʊ tuː]",
   "tr": "йти кудись"
  },
  {
   "word": "morning",
   "pos": "n",
-  "ipa": "[ˈmɔː.nɪŋ]",
+  "ipa": "[ˈmɔːr.nɪŋ]",
   "tr": "ранок"
  },
  {
   "word": "afternoon",
   "pos": "n",
-  "ipa": "[ˌɑːf.təˈnuːn]",
+  "ipa": "[ˌæf.tɚˈnuːn]",
   "tr": "день (після обіду)"
  },
  {
@@ -1520,7 +1520,7 @@
  {
   "word": "library",
   "pos": "n",
-  "ipa": "[ˈlaɪ.brər.i]",
+  "ipa": "[ˈlaɪ.brer.i]",
   "tr": "бібліотека"
  },
  {
@@ -1538,25 +1538,25 @@
  {
   "word": "park",
   "pos": "n",
-  "ipa": "[pɑːk]",
+  "ipa": "[pɑːrk]",
   "tr": "парк"
  },
  {
   "word": "hospital",
   "pos": "n",
-  "ipa": "[ˈhɒs.pɪ.təl]",
+  "ipa": "[ˈhɑː.spɪ.t̬əl]",
   "tr": "лікарня"
  },
  {
   "word": "café",
   "pos": "n",
-  "ipa": "[ˈkæf.eɪ]",
+  "ipa": "[kæfˈeɪ]",
   "tr": "кафе"
  },
  {
   "word": "start",
   "pos": "v",
-  "ipa": "[stɑːt]",
+  "ipa": "[stɑːrt]",
   "tr": "починати"
  },
  {
@@ -1574,7 +1574,7 @@
  {
   "word": "Where?",
   "pos": "adv",
-  "ipa": "[weə]",
+  "ipa": "[wer]",
   "tr": "де?"
  },
  {
@@ -1610,19 +1610,19 @@
  {
   "word": "teacher",
   "pos": "n",
-  "ipa": "[ˈtiː.tʃə]",
+  "ipa": "[ˈtiː.tʃɚ]",
   "tr": "вчитель"
  },
  {
   "word": "board",
   "pos": "n",
-  "ipa": "[bɔːd]",
+  "ipa": "[bɔːrd]",
   "tr": "дошка"
  },
  {
   "word": "bird",
   "pos": "n",
-  "ipa": "[bɜːd]",
+  "ipa": "[bɝːd]",
   "tr": "пташка"
  },
  {
@@ -1640,7 +1640,7 @@
  {
   "word": "notebook",
   "pos": "n",
-  "ipa": "[ˈnəʊt.bʊk]",
+  "ipa": "[ˈnoʊt.bʊk]",
   "tr": "зошит"
  },
  {
@@ -1652,13 +1652,13 @@
  {
   "word": "box",
   "pos": "n",
-  "ipa": "[bɒks]",
+  "ipa": "[bɑːks]",
   "tr": "коробка"
  },
  {
   "word": "scarf",
   "pos": "n",
-  "ipa": "[skɑːf]",
+  "ipa": "[skɑːrf]",
   "tr": "шарф"
  },
  {
@@ -1670,7 +1670,7 @@
  {
   "word": "glass",
   "pos": "n",
-  "ipa": "[ɡlɑːs]",
+  "ipa": "[ɡlæs]",
   "tr": "склянка"
  },
  {
@@ -1694,13 +1694,13 @@
  {
   "word": "strawberry",
   "pos": "n",
-  "ipa": "[ˈstrɔː.bər.i]",
+  "ipa": "[ˈstrɑː.ber.i]",
   "tr": "полуниця"
  },
  {
   "word": "tomato",
   "pos": "n",
-  "ipa": "[təˈmɑː.təʊ]",
+  "ipa": "[təˈmeɪ.t̬oʊ]",
   "tr": "помідор"
  },
  {
@@ -1718,37 +1718,37 @@
  {
   "word": "watch",
   "pos": "n",
-  "ipa": "[wɒtʃ]",
+  "ipa": "[wɑːtʃ]",
   "tr": "годинник (наручний)"
  },
  {
   "word": "butterfly",
   "pos": "n",
-  "ipa": "[ˈbʌt.ə.flaɪ]",
+  "ipa": "[ˈbʌt̬.ɚ.flaɪ]",
   "tr": "метелик"
  },
  {
   "word": "radio",
   "pos": "n",
-  "ipa": "[ˈreɪ.di.əʊ]",
+  "ipa": "[ˈreɪ.di.oʊ]",
   "tr": "радіо"
  },
  {
   "word": "piano",
   "pos": "n",
-  "ipa": "[piˈæn.əʊ]",
+  "ipa": "[piˈæn.oʊ]",
   "tr": "піаніно"
  },
  {
   "word": "ox",
   "pos": "n",
-  "ipa": "[ɒks]",
+  "ipa": "[ɑːks]",
   "tr": "бик"
  },
  {
   "word": "deer",
   "pos": "n",
-  "ipa": "[dɪə]",
+  "ipa": "[dɪr]",
   "tr": "олень"
  },
  {
@@ -1760,7 +1760,7 @@
  {
   "word": "doctor",
   "pos": "n",
-  "ipa": "[ˈdɒk.tə]",
+  "ipa": "[ˈdɑːk.tɚ]",
   "tr": "лікар"
  },
  {
@@ -1772,19 +1772,19 @@
  {
   "word": "firefighter",
   "pos": "n",
-  "ipa": "[ˈfaɪəˌfaɪ.tə]",
+  "ipa": "[ˈfaɪrˌfaɪ.t̬ɚ]",
   "tr": "пожежник"
  },
  {
   "word": "fire",
   "pos": "n",
-  "ipa": "[ˈfaɪə]",
+  "ipa": "[faɪr]",
   "tr": "вогонь"
  },
  {
   "word": "singer",
   "pos": "n",
-  "ipa": "[ˈsɪŋ.ə]",
+  "ipa": "[ˈsɪŋ.ɚ]",
   "tr": "співак"
  },
  {
@@ -1796,19 +1796,19 @@
  {
   "word": "old",
   "pos": "adj",
-  "ipa": "[əʊld]",
+  "ipa": "[oʊld]",
   "tr": "старий"
  },
  {
   "word": "close",
   "pos": "v",
-  "ipa": "[kləʊz]",
+  "ipa": "[kloʊz]",
   "tr": "закривати"
  },
  {
   "word": "talk",
   "pos": "v",
-  "ipa": "[tɔːk]",
+  "ipa": "[tɑːk]",
   "tr": "говорити, розмовляти"
  },
  {
@@ -1820,13 +1820,13 @@
  {
   "word": "photo",
   "pos": "n",
-  "ipa": "[ˈfəʊ.təʊ]",
+  "ipa": "[ˈfoʊ.t̬oʊ]",
   "tr": "фото"
  },
  {
   "word": "take photos",
   "pos": "phr",
-  "ipa": "[ˌteɪk ˈfəʊ.təʊz]",
+  "ipa": "[ˌteɪk ˈfoʊ.t̬oʊz]",
   "tr": "фотографувати"
  },
  {
@@ -1856,7 +1856,7 @@
  {
   "word": "hair",
   "pos": "n",
-  "ipa": "[heə]",
+  "ipa": "[her]",
   "tr": "волосся"
  },
  {
@@ -1868,19 +1868,19 @@
  {
   "word": "ear",
   "pos": "n",
-  "ipa": "[ɪə]",
+  "ipa": "[ɪr]",
   "tr": "вухо"
  },
  {
   "word": "horse",
   "pos": "n",
-  "ipa": "[hɔːs]",
+  "ipa": "[hɔːrs]",
   "tr": "кінь"
  },
  {
-  "word": "colouring book",
+  "word": "coloring book",
   "pos": "n",
-  "ipa": "[ˈkʌl.ər.ɪŋ ˌbʊk]",
+  "ipa": "[ˈkʌl.ɚ.ɪŋ ˌbʊk]",
   "tr": "розмальовка"
  },
  {
@@ -1892,7 +1892,7 @@
  {
   "word": "here",
   "pos": "adv",
-  "ipa": "[hɪə]",
+  "ipa": "[hɪr]",
   "tr": "тут"
  },
  {
@@ -1910,13 +1910,13 @@
  {
   "word": "picture",
   "pos": "n",
-  "ipa": "[ˈpɪk.tʃə]",
+  "ipa": "[ˈpɪk.tʃɚ]",
   "tr": "картинка"
  },
  {
   "word": "or",
   "pos": "conj",
-  "ipa": "[ɔː]",
+  "ipa": "[ɔːr]",
   "tr": "або"
  },
  {
@@ -1946,7 +1946,7 @@
  {
   "word": "burger",
   "pos": "n",
-  "ipa": "[ˈbɜː.ɡə]",
+  "ipa": "[ˈbɝː.ɡɚ]",
   "tr": "бургер"
  },
  {
@@ -1964,19 +1964,19 @@
  {
   "word": "know",
   "pos": "v",
-  "ipa": "[nəʊ]",
+  "ipa": "[noʊ]",
   "tr": "знати"
  },
  {
   "word": "hot",
   "pos": "adj",
-  "ipa": "[hɒt]",
+  "ipa": "[hɑːt]",
   "tr": "гарячий"
  },
  {
   "word": "cold",
   "pos": "adj",
-  "ipa": "[kəʊld]",
+  "ipa": "[koʊld]",
   "tr": "холодний"
  },
  {
@@ -1988,13 +1988,13 @@
  {
   "word": "fast",
   "pos": "adj",
-  "ipa": "[fɑːst]",
+  "ipa": "[fæst]",
   "tr": "швидкий"
  },
  {
   "word": "slow",
   "pos": "adj",
-  "ipa": "[sləʊ]",
+  "ipa": "[sloʊ]",
   "tr": "повільний"
  },
  {
@@ -2060,7 +2060,7 @@
  {
   "word": "brush hair",
   "pos": "phr",
-  "ipa": "[ˌbrʌʃ ˈheə]",
+  "ipa": "[ˌbrʌʃ ˈher]",
   "tr": "розчісувати волосся"
  },
  {
@@ -2078,7 +2078,7 @@
  {
   "word": "wear",
   "pos": "v",
-  "ipa": "[weə]",
+  "ipa": "[wer]",
   "tr": "носити (одяг)"
  },
  {
@@ -2114,13 +2114,13 @@
  {
   "word": "homework",
   "pos": "n",
-  "ipa": "[ˈhəʊm.wɜːk]",
+  "ipa": "[ˈhoʊm.wɝːk]",
   "tr": "домашня робота"
  },
  {
   "word": "hometask",
   "pos": "n",
-  "ipa": "[ˈhəʊm.tɑːsk]",
+  "ipa": "[ˈhoʊm.tæsk]",
   "tr": "домашнє завдання"
  },
  {
@@ -2132,7 +2132,7 @@
  {
   "word": "far",
   "pos": "adv",
-  "ipa": "[fɑː]",
+  "ipa": "[fɑːr]",
   "tr": "далеко"
  },
  {
@@ -2162,7 +2162,7 @@
  {
   "word": "Tuesday",
   "pos": "n",
-  "ipa": "[ˈtjuːz.deɪ]",
+  "ipa": "[ˈtuːz.deɪ]",
   "tr": "вівторок"
  },
  {
@@ -2174,7 +2174,7 @@
  {
   "word": "Thursday",
   "pos": "n",
-  "ipa": "[ˈθɜːz.deɪ]",
+  "ipa": "[ˈθɝːz.deɪ]",
   "tr": "четвер"
  },
  {
@@ -2186,7 +2186,7 @@
  {
   "word": "Saturday",
   "pos": "n",
-  "ipa": "[ˈsæt.ə.deɪ]",
+  "ipa": "[ˈsæt̬.ɚ.deɪ]",
   "tr": "субота"
  },
  {
@@ -2198,7 +2198,7 @@
  {
   "word": "winter",
   "pos": "n",
-  "ipa": "[ˈwɪn.tə]",
+  "ipa": "[ˈwɪn.t̬ɚ]",
   "tr": "зима"
  },
  {
@@ -2210,19 +2210,19 @@
  {
   "word": "summer",
   "pos": "n",
-  "ipa": "[ˈsʌm.ə]",
+  "ipa": "[ˈsʌm.ɚ]",
   "tr": "літо"
  },
  {
   "word": "autumn",
   "pos": "n",
-  "ipa": "[ˈɔː.təm]",
+  "ipa": "[ˈɑː.t̬əm]",
   "tr": "осінь"
  },
  {
   "word": "because",
   "pos": "conj",
-  "ipa": "[bɪˈkɒz]",
+  "ipa": "[bɪˈkɑːz]",
   "tr": "тому що"
  },
  {
@@ -2234,19 +2234,19 @@
  {
   "word": "dinner",
   "pos": "n",
-  "ipa": "[ˈdɪn.ə]",
+  "ipa": "[ˈdɪn.ɚ]",
   "tr": "вечеря"
  },
  {
   "word": "exercise",
   "pos": "n",
-  "ipa": "[ˈek.sə.saɪz]",
+  "ipa": "[ˈek.sɚ.saɪz]",
   "tr": "вправа"
  },
  {
   "word": "tired",
   "pos": "adj",
-  "ipa": "[ˈtaɪəd]",
+  "ipa": "[taɪrd]",
   "tr": "втомлений"
  },
  {
@@ -2258,7 +2258,7 @@
  {
   "word": "girlfriend",
   "pos": "n",
-  "ipa": "[ˈɡɜːl.frend]",
+  "ipa": "[ˈɡɝːl.frend]",
   "tr": "дівчина"
  },
  {
@@ -2294,7 +2294,7 @@
  {
   "word": "ice cream",
   "pos": "n",
-  "ipa": "[ˌaɪs ˈkriːm]",
+  "ipa": "[ˈaɪs ˌkriːm]",
   "tr": "морозиво"
  },
  {
@@ -2318,7 +2318,7 @@
  {
   "word": "parents",
   "pos": "n",
-  "ipa": "[ˈpeə.rənts]",
+  "ipa": "[ˈper.ənts]",
   "tr": "батьки"
  },
  {
@@ -2330,7 +2330,7 @@
  {
   "word": "chocolate",
   "pos": "n",
-  "ipa": "[ˈtʃɒk.lət]",
+  "ipa": "[ˈtʃɑːk.lət]",
   "tr": "шоколад"
  },
  {
@@ -2342,7 +2342,7 @@
  {
   "word": "at the door",
   "pos": "phr",
-  "ipa": "[ət ðə ˈdɔː]",
+  "ipa": "[ət ðə ˈdɔːr]",
   "tr": "біля дверей"
  },
  {
@@ -2366,19 +2366,19 @@
  {
   "word": "under",
   "pos": "prep",
-  "ipa": "[ˈʌn.də]",
+  "ipa": "[ˈʌn.dɚ]",
   "tr": "під"
  },
  {
   "word": "on",
   "pos": "prep",
-  "ipa": "[ɒn]",
+  "ipa": "[ɑːn]",
   "tr": "на"
  },
  {
   "word": "near",
   "pos": "prep",
-  "ipa": "[nɪə]",
+  "ipa": "[nɪr]",
   "tr": "близько до"
  },
  {
@@ -2408,13 +2408,13 @@
  {
   "word": "wonderful",
   "pos": "adj",
-  "ipa": "[ˈwʌn.də.fəl]",
+  "ipa": "[ˈwʌn.dɚ.fəl]",
   "tr": "чудовий"
  },
  {
   "word": "water",
   "pos": "v",
-  "ipa": "[ˈwɔː.tə]",
+  "ipa": "[ˈwɑː.t̬ɚ]",
   "tr": "поливати"
  },
  {
@@ -2432,43 +2432,43 @@
  {
   "word": "Rome",
   "pos": "n",
-  "ipa": "[rəʊm]",
+  "ipa": "[roʊm]",
   "tr": "Рим"
  },
  {
   "word": "can opener",
   "pos": "n",
-  "ipa": "[ˈkæn ˌəʊ.pən.ə]",
+  "ipa": "[ˈkæn ˌoʊ.pən.ɚ]",
   "tr": "відкривачка для банок"
  },
  {
   "word": "diary",
   "pos": "n",
-  "ipa": "[ˈdaɪə.ri]",
+  "ipa": "[ˈdaɪ.ɚ.i]",
   "tr": "щоденник"
  },
  {
   "word": "torch",
   "pos": "n",
-  "ipa": "[tɔːtʃ]",
+  "ipa": "[tɔːrtʃ]",
   "tr": "ліхтарик"
  },
  {
   "word": "laptop",
   "pos": "n",
-  "ipa": "[ˈlæp.tɒp]",
+  "ipa": "[ˈlæp.tɑːp]",
   "tr": "ноутбук"
  },
  {
   "word": "binoculars",
   "pos": "n",
-  "ipa": "[bɪˈnɒk.jə.ləz]",
+  "ipa": "[bɪˈnɑː.kjə.lɚz]",
   "tr": "бінокль"
  },
  {
   "word": "aquarium",
   "pos": "n",
-  "ipa": "[əˈkweə.ri.əm]",
+  "ipa": "[əˈkwer.i.əm]",
   "tr": "акваріум"
  },
  {
@@ -2492,7 +2492,7 @@
  {
   "word": "storm",
   "pos": "n",
-  "ipa": "[stɔːm]",
+  "ipa": "[stɔːrm]",
   "tr": "шторм"
  },
  {
@@ -2504,13 +2504,13 @@
  {
   "word": "cold",
   "pos": "adj",
-  "ipa": "[kəʊld]",
+  "ipa": "[koʊld]",
   "tr": "холодний, холодно"
  },
  {
   "word": "a lot of snow",
   "pos": "phr",
-  "ipa": "[ə ˌlɒt əv ˈsnəʊ]",
+  "ipa": "[ə ˌlɑːt əv ˈsnoʊ]",
   "tr": "багато снігу"
  },
  {
@@ -2522,7 +2522,7 @@
  {
   "word": "thunder",
   "pos": "n",
-  "ipa": "[ˈθʌn.də]",
+  "ipa": "[ˈθʌn.dɚ]",
   "tr": "грім"
  },
  {
@@ -2546,7 +2546,7 @@
  {
   "word": "clever",
   "pos": "adj",
-  "ipa": "[ˈklev.ə]",
+  "ipa": "[ˈklev.ɚ]",
   "tr": "розумний"
  },
  {
@@ -2564,19 +2564,19 @@
  {
   "word": "hurricane",
   "pos": "n",
-  "ipa": "[ˈhʌr.ɪ.kən]",
+  "ipa": "[ˈhɝː.ə.keɪn]",
   "tr": "ураган"
  },
  {
   "word": "last",
   "pos": "v",
-  "ipa": "[lɑːst]",
+  "ipa": "[læst]",
   "tr": "тривати"
  },
  {
   "word": "more than",
   "pos": "phr",
-  "ipa": "[ˈmɔː ðən]",
+  "ipa": "[ˈmɔːr ðən]",
   "tr": "більше ніж"
  },
  {
@@ -2612,7 +2612,7 @@
  {
   "word": "cause",
   "pos": "v",
-  "ipa": "[kɔːz]",
+  "ipa": "[kɑːz]",
   "tr": "спричиняти"
  },
  {
@@ -2630,7 +2630,7 @@
  {
   "word": "tornado",
   "pos": "n",
-  "ipa": "[tɔːˈneɪ.dəʊ]",
+  "ipa": "[tɔːrˈneɪ.doʊ]",
   "tr": "торнадо"
  },
  {
@@ -2648,13 +2648,13 @@
  {
   "word": "produce",
   "pos": "v",
-  "ipa": "[prəˈdjuːs]",
+  "ipa": "[prəˈduːs]",
   "tr": "створювати, виробляти"
  },
  {
   "word": "capital city",
   "pos": "n",
-  "ipa": "[ˌkæp.ɪ.təl ˈsɪt.i]",
+  "ipa": "[ˌkæp.ə.t̬əl ˈsɪt̬.i]",
   "tr": "столиця"
  },
  {
@@ -2666,19 +2666,19 @@
  {
   "word": "January",
   "pos": "n",
-  "ipa": "[ˈdʒæn.ju.ə.ri]",
+  "ipa": "[ˈdʒæn.ju.er.i]",
   "tr": "січень"
  },
  {
   "word": "February",
   "pos": "n",
-  "ipa": "[ˈfeb.ru.ə.ri]",
+  "ipa": "[ˈfeb.ru.er.i]",
   "tr": "лютий"
  },
  {
   "word": "March",
   "pos": "n",
-  "ipa": "[mɑːtʃ]",
+  "ipa": "[mɑːrtʃ]",
   "tr": "березень"
  },
  {
@@ -2696,7 +2696,7 @@
  {
   "word": "December",
   "pos": "n",
-  "ipa": "[dɪˈsem.bə]",
+  "ipa": "[dɪˈsem.bɚ]",
   "tr": "грудень"
  },
  {
@@ -2708,7 +2708,7 @@
  {
   "word": "tomorrow",
   "pos": "adv",
-  "ipa": "[təˈmɒr.əʊ]",
+  "ipa": "[təˈmɑːr.oʊ]",
   "tr": "завтра"
  },
  {
@@ -2726,7 +2726,7 @@
  {
   "word": "later",
   "pos": "adv",
-  "ipa": "[ˈleɪ.tə]",
+  "ipa": "[ˈleɪ.t̬ɚ]",
   "tr": "пізніше"
  },
  {
@@ -2744,19 +2744,19 @@
  {
   "word": "the day after tomorrow",
   "pos": "phr",
-  "ipa": "[ðə ˌdeɪ ˌɑːf.tə təˈmɒr.əʊ]",
+  "ipa": "[ðə ˌdeɪ ˌæf.tɚ təˈmɑːr.oʊ]",
   "tr": "післязавтра"
  },
  {
   "word": "after",
   "pos": "prep",
-  "ipa": "[ˈɑːf.tə]",
+  "ipa": "[ˈæf.tɚ]",
   "tr": "після"
  },
  {
   "word": "before",
   "pos": "prep",
-  "ipa": "[bɪˈfɔː]",
+  "ipa": "[bɪˈfɔːr]",
   "tr": "до, перед"
  },
  {
@@ -2768,7 +2768,7 @@
  {
   "word": "future",
   "pos": "n",
-  "ipa": "[ˈfjuː.tʃə]",
+  "ipa": "[ˈfjuː.tʃɚ]",
   "tr": "майбутнє"
  },
  {
@@ -2780,7 +2780,7 @@
  {
   "word": "idea",
   "pos": "n",
-  "ipa": "[aɪˈdɪə]",
+  "ipa": "[aɪˈdiː.ə]",
   "tr": "ідея"
  },
  {
@@ -2822,7 +2822,7 @@
  {
   "word": "verb",
   "pos": "n",
-  "ipa": "[vɜːb]",
+  "ipa": "[vɝːb]",
   "tr": "дієслово"
  },
  {
@@ -2852,19 +2852,19 @@
  {
   "word": "cold",
   "pos": "adj",
-  "ipa": "[kəʊld]",
+  "ipa": "[koʊld]",
   "tr": "холодний"
  },
  {
   "word": "blow",
   "pos": "v",
-  "ipa": "[bləʊ]",
+  "ipa": "[bloʊ]",
   "tr": "дути"
  },
  {
   "word": "weather",
   "pos": "n",
-  "ipa": "[ˈweð.ə]",
+  "ipa": "[ˈweð.ɚ]",
   "tr": "погода"
  },
  {
@@ -2882,7 +2882,7 @@
  {
   "word": "engineer",
   "pos": "n",
-  "ipa": "[ˌen.dʒɪˈnɪə]",
+  "ipa": "[ˌen.dʒɪˈnɪr]",
   "tr": "інженер"
  },
  {
@@ -2894,13 +2894,13 @@
  {
   "word": "daughter",
   "pos": "n",
-  "ipa": "[ˈdɔː.tə]",
+  "ipa": "[ˈdɑː.t̬ɚ]",
   "tr": "донька"
  },
  {
   "word": "spider",
   "pos": "n",
-  "ipa": "[ˈspaɪ.də]",
+  "ipa": "[ˈspaɪ.dɚ]",
   "tr": "павук"
  },
  {
@@ -2918,7 +2918,7 @@
  {
   "word": "cartoon",
   "pos": "n",
-  "ipa": "[kɑːˈtuːn]",
+  "ipa": "[kɑːrˈtuːn]",
   "tr": "мультфільм"
  },
  {
@@ -2930,7 +2930,7 @@
  {
   "word": "sofa",
   "pos": "n",
-  "ipa": "[ˈsəʊ.fə]",
+  "ipa": "[ˈsoʊ.fə]",
   "tr": "диван"
  },
  {
@@ -2942,7 +2942,7 @@
  {
   "word": "open",
   "pos": "v",
-  "ipa": "[ˈəʊ.pən]",
+  "ipa": "[ˈoʊ.pən]",
   "tr": "відкривати"
  },
  {
@@ -2954,7 +2954,7 @@
  {
   "word": "student",
   "pos": "n",
-  "ipa": "[ˈstjuː.dənt]",
+  "ipa": "[ˈstuː.dənt]",
   "tr": "учень, студент"
  },
  {
@@ -2972,13 +2972,13 @@
  {
   "word": "old",
   "pos": "adj",
-  "ipa": "[əʊld]",
+  "ipa": "[oʊld]",
   "tr": "старий"
  },
  {
   "word": "mountain",
   "pos": "n",
-  "ipa": "[ˈmaʊn.tɪn]",
+  "ipa": "[ˈmaʊn.tən]",
   "tr": "гора"
  },
  {
@@ -2996,7 +2996,7 @@
  {
   "word": "city",
   "pos": "n",
-  "ipa": "[ˈsɪt.i]",
+  "ipa": "[ˈsɪt̬.i]",
   "tr": "місто"
  },
  {
@@ -3006,9 +3006,9 @@
   "tr": "обличчя"
  },
  {
-  "word": "favourite",
+  "word": "favorite",
   "pos": "adj",
-  "ipa": "[ˈfeɪ.vər.ɪt]",
+  "ipa": "[ˈfeɪ.vɚ.ɪt]",
   "tr": "улюблений"
  },
  {
@@ -3026,7 +3026,7 @@
  {
   "word": "river",
   "pos": "n",
-  "ipa": "[ˈrɪv.ə]",
+  "ipa": "[ˈrɪv.ɚ]",
   "tr": "річка"
  },
  {
@@ -3038,13 +3038,13 @@
  {
   "word": "forest",
   "pos": "n",
-  "ipa": "[ˈfɒr.ɪst]",
+  "ipa": "[ˈfɔːr.ɪst]",
   "tr": "ліс"
  },
  {
   "word": "history",
   "pos": "n",
-  "ipa": "[ˈhɪs.tər.i]",
+  "ipa": "[ˈhɪs.tɚ.i]",
   "tr": "історія"
  },
  {
@@ -3056,7 +3056,7 @@
  {
   "word": "soldier",
   "pos": "n",
-  "ipa": "[ˈsəʊl.dʒə]",
+  "ipa": "[ˈsoʊl.dʒɚ]",
   "tr": "солдат"
  }
 ]
