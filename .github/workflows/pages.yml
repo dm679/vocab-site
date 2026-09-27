@@ -25,16 +25,14 @@ jobs:
         uses: actions/cache@v4
         with:
           path: audio
-          key: audio-ryan2-${{ hashFiles('*/words.json') }}
-          restore-keys: audio-ryan2-
+          key: audio-kokoro-${{ hashFiles('*/words.json') }}
+          restore-keys: audio-kokoro-
       - name: Record male US voice for new words
         run: |
-          sudo apt-get install -y -qq ffmpeg >/dev/null
-          pip install -q "piper-tts>=1.2"
-          mkdir -p voice
-          curl -sSL -o voice/v.onnx https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx
-          curl -sSL -o voice/v.onnx.json https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high/en_US-ryan-high.onnx.json
-          python3 tts.py voice/v.onnx
+          sudo apt-get install -y -qq ffmpeg espeak-ng >/dev/null
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q "kokoro>=0.9.4" soundfile
+          python3 tts.py
       - run: python3 build.py && touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
