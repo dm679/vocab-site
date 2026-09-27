@@ -81,8 +81,8 @@ window.WORDS = {{WORDS}};
     if(!('speechSynthesis' in window)) return;
     speechSynthesis.cancel();
     var u = new SpeechSynthesisUtterance(t);
-    u.lang = 'en-GB'; u.rate = 0.85;
-    var v = speechSynthesis.getVoices().filter(function(x){return /^en[-_]GB/i.test(x.lang);})[0]
+    u.lang = 'en-US'; u.rate = 0.85;
+    var v = speechSynthesis.getVoices().filter(function(x){return /^en[-_]US/i.test(x.lang);})[0]
          || speechSynthesis.getVoices().filter(function(x){return /^en/i.test(x.lang);})[0];
     if(v) u.voice = v;
     speechSynthesis.speak(u);
