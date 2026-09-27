@@ -87,6 +87,16 @@ window.WORDS = {{WORDS}};
     chosen = us.filter(isM)[0] || us[0] || en.filter(isM)[0] || en[0] || null;
   }
   if('speechSynthesis' in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+  var player = null;
+  function play(w){
+    if(player){ player.pause(); }
+    if('speechSynthesis' in window) speechSynthesis.cancel();
+    if(w.a){
+      player = new Audio('../audio/' + w.a + '.mp3');
+      player.play().catch(function(){ speak(w.word); });
+      player.onerror = function(){ speak(w.word); };
+    } else speak(w.word);
+  }
   function speak(t){
     if(!('speechSynthesis' in window)) return;
     speechSynthesis.cancel();
@@ -117,7 +127,7 @@ window.WORDS = {{WORDS}};
 
   document.addEventListener('click', function(e){
     var b = e.target.closest('.speak');
-    if(b) speak(words[+b.getAttribute('data-i')].word);
+    if(b) play(words[+b.getAttribute('data-i')]);
     if(e.target.closest('.go')) document.getElementById('hello').remove();
   });
 
