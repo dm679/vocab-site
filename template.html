@@ -77,14 +77,25 @@ window.WORDS = {{WORDS}};
 
   function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
 
+  var MALE = /(guy|davis|david|mark|andrew|brian|christopher|eric|roger|steffan|tony|jason|jacob|alex\b|aaron|evan|nathan|tom\b|fred|reed|rocko|ralph|daniel|male|en-us-x-(iol|iom|tpd))/i;
+  var chosen = null;
+  function pickVoice(){
+    var vs = ('speechSynthesis' in window) ? speechSynthesis.getVoices() : [];
+    var us = vs.filter(function(x){return /^en[-_]US/i.test(x.lang);});
+    var en = vs.filter(function(x){return /^en/i.test(x.lang);});
+    chosen = us.filter(function(x){return MALE.test(x.name) || MALE.test(x.voiceURI||'');})[0]
+          || en.filter(function(x){return MALE.test(x.name) || MALE.test(x.voiceURI||'');})[0]
+          || us[0] || en[0] || null;
+  }
+  if('speechSynthesis' in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
   function speak(t){
     if(!('speechSynthesis' in window)) return;
     speechSynthesis.cancel();
+    if(!chosen) pickVoice();
     var u = new SpeechSynthesisUtterance(t);
     u.lang = 'en-US'; u.rate = 0.85;
-    var v = speechSynthesis.getVoices().filter(function(x){return /^en[-_]US/i.test(x.lang);})[0]
-         || speechSynthesis.getVoices().filter(function(x){return /^en/i.test(x.lang);})[0];
-    if(v) u.voice = v;
+    if(chosen) u.voice = chosen;
+    if(!chosen || !MALE.test(chosen.name + ' ' + (chosen.voiceURI||''))) u.pitch = 0.7;
     speechSynthesis.speak(u);
   }
 
@@ -117,7 +128,6 @@ window.WORDS = {{WORDS}};
   Object.keys(POS).forEach(function(k){ leg += '<span><b class="pos pos-'+k+'">'+k+'</b> '+POS[k]+'</span>'; });
   document.getElementById('legend').innerHTML = leg;
 
-  if('speechSynthesis' in window) speechSynthesis.getVoices();
 
   words = window.WORDS || []; render('');
 })();
