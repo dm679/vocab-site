@@ -1,1 +1,1766 @@
-[]
+[
+ {
+  "word": "glass",
+  "pos": "n",
+  "ipa": "[ɡlæs]",
+  "tr": "стакан, склянка"
+ },
+ {
+  "word": "leaf",
+  "pos": "n",
+  "ipa": "[liːf]",
+  "tr": "листочок"
+ },
+ {
+  "word": "but",
+  "pos": "conj",
+  "ipa": "[bʌt]",
+  "tr": "але"
+ },
+ {
+  "word": "when",
+  "pos": "adv",
+  "ipa": "[wen]",
+  "tr": "коли"
+ },
+ {
+  "word": "once",
+  "pos": "adv",
+  "ipa": "[wʌns]",
+  "tr": "один раз"
+ },
+ {
+  "word": "twice",
+  "pos": "adv",
+  "ipa": "[twaɪs]",
+  "tr": "двічі"
+ },
+ {
+  "word": "take a shower",
+  "pos": "phr",
+  "ipa": "[ˌteɪk ə ˈʃaʊ.ɚ]",
+  "tr": "приймати душ"
+ },
+ {
+  "word": "drive",
+  "pos": "v",
+  "ipa": "[draɪv]",
+  "tr": "водити авто"
+ },
+ {
+  "word": "Mr.",
+  "pos": "n",
+  "ipa": "[ˈmɪs.tɚ]",
+  "tr": "містер"
+ },
+ {
+  "word": "sell",
+  "pos": "v",
+  "ipa": "[sel]",
+  "tr": "продавати"
+ },
+ {
+  "word": "say hello/hi to",
+  "pos": "phr",
+  "ipa": "[ˌseɪ həˈloʊ tuː]",
+  "tr": "привітатися"
+ },
+ {
+  "word": "become",
+  "pos": "v",
+  "ipa": "[bɪˈkʌm]",
+  "tr": "ставати"
+ },
+ {
+  "word": "tell",
+  "pos": "v",
+  "ipa": "[tel]",
+  "tr": "розповідати"
+ },
+ {
+  "word": "agree",
+  "pos": "v",
+  "ipa": "[əˈɡriː]",
+  "tr": "погоджуватися"
+ },
+ {
+  "word": "blow",
+  "pos": "v",
+  "ipa": "[bloʊ]",
+  "tr": "дути"
+ },
+ {
+  "word": "today",
+  "pos": "adv",
+  "ipa": "[təˈdeɪ]",
+  "tr": "сьогодні"
+ },
+ {
+  "word": "cut",
+  "pos": "v",
+  "ipa": "[kʌt]",
+  "tr": "різати"
+ },
+ {
+  "word": "come",
+  "pos": "v",
+  "ipa": "[kʌm]",
+  "tr": "приходити"
+ },
+ {
+  "word": "put",
+  "pos": "v",
+  "ipa": "[pʊt]",
+  "tr": "класти"
+ },
+ {
+  "word": "kick",
+  "pos": "v",
+  "ipa": "[kɪk]",
+  "tr": "бити ногою"
+ },
+ {
+  "word": "over the fence",
+  "pos": "phr",
+  "ipa": "[ˌoʊ.vɚ ðə ˈfens]",
+  "tr": "через паркан"
+ },
+ {
+  "word": "listen to music",
+  "pos": "phr",
+  "ipa": "[ˌlɪs.ən tə ˈmjuː.zɪk]",
+  "tr": "слухати музику"
+ },
+ {
+  "word": "wear",
+  "pos": "v",
+  "ipa": "[wer]",
+  "tr": "носити (одяг)"
+ },
+ {
+  "word": "Mrs.",
+  "pos": "n",
+  "ipa": "[ˈmɪs.ɪz]",
+  "tr": "місіс (заміжня жінка)"
+ },
+ {
+  "word": "drink tea",
+  "pos": "phr",
+  "ipa": "[ˌdrɪŋk ˈtiː]",
+  "tr": "пити чай"
+ },
+ {
+  "word": "often",
+  "pos": "adv",
+  "ipa": "[ˈɑː.fən]",
+  "tr": "часто"
+ },
+ {
+  "word": "afternoon",
+  "pos": "n",
+  "ipa": "[ˌæf.tɚˈnuːn]",
+  "tr": "день, друга половина дня"
+ },
+ {
+  "word": "curtains",
+  "pos": "n",
+  "ipa": "[ˈkɝː.tənz]",
+  "tr": "штори"
+ },
+ {
+  "word": "wish",
+  "pos": "v",
+  "ipa": "[wɪʃ]",
+  "tr": "бажати"
+ },
+ {
+  "word": "desire",
+  "pos": "v",
+  "ipa": "[dɪˈzaɪr]",
+  "tr": "бажати"
+ },
+ {
+  "word": "want",
+  "pos": "v",
+  "ipa": "[wɑːnt]",
+  "tr": "хотіти"
+ },
+ {
+  "word": "envy",
+  "pos": "v",
+  "ipa": "[ˈen.vi]",
+  "tr": "заздрити"
+ },
+ {
+  "word": "hate",
+  "pos": "v",
+  "ipa": "[heɪt]",
+  "tr": "ненавидіти"
+ },
+ {
+  "word": "like",
+  "pos": "v",
+  "ipa": "[laɪk]",
+  "tr": "подобатися"
+ },
+ {
+  "word": "prefer",
+  "pos": "v",
+  "ipa": "[prɪˈfɝː]",
+  "tr": "віддавати перевагу"
+ },
+ {
+  "word": "fear",
+  "pos": "v",
+  "ipa": "[fɪr]",
+  "tr": "боятися"
+ },
+ {
+  "word": "satisfy",
+  "pos": "v",
+  "ipa": "[ˈsæt̬.ɪs.faɪ]",
+  "tr": "задовольняти"
+ },
+ {
+  "word": "seem",
+  "pos": "v",
+  "ipa": "[siːm]",
+  "tr": "здаватися"
+ },
+ {
+  "word": "deny",
+  "pos": "v",
+  "ipa": "[dɪˈnaɪ]",
+  "tr": "заперечувати"
+ },
+ {
+  "word": "doubt",
+  "pos": "v",
+  "ipa": "[daʊt]",
+  "tr": "сумніватися"
+ },
+ {
+  "word": "tie",
+  "pos": "v",
+  "ipa": "[taɪ]",
+  "tr": "зав'язувати"
+ },
+ {
+  "word": "Switzerland",
+  "pos": "n",
+  "ipa": "[ˈswɪt.sɚ.lənd]",
+  "tr": "Швейцарія"
+ },
+ {
+  "word": "Why?",
+  "pos": "adv",
+  "ipa": "[waɪ]",
+  "tr": "чому?"
+ },
+ {
+  "word": "find",
+  "pos": "v",
+  "ipa": "[faɪnd]",
+  "tr": "знаходити"
+ },
+ {
+  "word": "between",
+  "pos": "prep",
+  "ipa": "[bɪˈtwiːn]",
+  "tr": "між"
+ },
+ {
+  "word": "behind",
+  "pos": "prep",
+  "ipa": "[bɪˈhaɪnd]",
+  "tr": "позаду"
+ },
+ {
+  "word": "near",
+  "pos": "prep",
+  "ipa": "[nɪr]",
+  "tr": "біля, недалеко"
+ },
+ {
+  "word": "in front of",
+  "pos": "prep",
+  "ipa": "[ɪn ˈfrʌnt əv]",
+  "tr": "перед"
+ },
+ {
+  "word": "next to",
+  "pos": "prep",
+  "ipa": "[ˈnekst tuː]",
+  "tr": "поруч, біля"
+ },
+ {
+  "word": "at home",
+  "pos": "phr",
+  "ipa": "[ət ˈhoʊm]",
+  "tr": "вдома"
+ },
+ {
+  "word": "at school",
+  "pos": "phr",
+  "ipa": "[ət ˈskuːl]",
+  "tr": "у школі"
+ },
+ {
+  "word": "at work",
+  "pos": "phr",
+  "ipa": "[ət ˈwɝːk]",
+  "tr": "на роботі"
+ },
+ {
+  "word": "here",
+  "pos": "adv",
+  "ipa": "[hɪr]",
+  "tr": "тут"
+ },
+ {
+  "word": "soon",
+  "pos": "adv",
+  "ipa": "[suːn]",
+  "tr": "скоро"
+ },
+ {
+  "word": "guest",
+  "pos": "n",
+  "ipa": "[ɡest]",
+  "tr": "гість"
+ },
+ {
+  "word": "seldom",
+  "pos": "adv",
+  "ipa": "[ˈsel.dəm]",
+  "tr": "рідко"
+ },
+ {
+  "word": "thousand",
+  "pos": "num",
+  "ipa": "[ˈθaʊ.zənd]",
+  "tr": "тисяча"
+ },
+ {
+  "word": "hundred",
+  "pos": "num",
+  "ipa": "[ˈhʌn.drəd]",
+  "tr": "сто, сотня"
+ },
+ {
+  "word": "take off",
+  "pos": "v",
+  "ipa": "[ˌteɪk ˈɑːf]",
+  "tr": "знімати"
+ },
+ {
+  "word": "important",
+  "pos": "adj",
+  "ipa": "[ɪmˈpɔːr.tənt]",
+  "tr": "важливий"
+ },
+ {
+  "word": "gym",
+  "pos": "n",
+  "ipa": "[dʒɪm]",
+  "tr": "тренажерний зал"
+ },
+ {
+  "word": "last",
+  "pos": "adj",
+  "ipa": "[læst]",
+  "tr": "останній"
+ },
+ {
+  "word": "television",
+  "pos": "n",
+  "ipa": "[ˈtel.ə.vɪʒ.ən]",
+  "tr": "телевізор"
+ },
+ {
+  "word": "quiet",
+  "pos": "adj",
+  "ipa": "[ˈkwaɪ.ət]",
+  "tr": "тихий"
+ },
+ {
+  "word": "make money",
+  "pos": "phr",
+  "ipa": "[ˌmeɪk ˈmʌn.i]",
+  "tr": "заробляти гроші"
+ },
+ {
+  "word": "tired",
+  "pos": "adj",
+  "ipa": "[taɪrd]",
+  "tr": "втомлений"
+ },
+ {
+  "word": "punch",
+  "pos": "n",
+  "ipa": "[pʌntʃ]",
+  "tr": "удар (кулаком)"
+ },
+ {
+  "word": "What are you?",
+  "pos": "phr",
+  "ipa": "[ˌwʌt ˈɑːr juː]",
+  "tr": "хто ти за професією?"
+ },
+ {
+  "word": "Whose?",
+  "pos": "pron",
+  "ipa": "[huːz]",
+  "tr": "чий? чия? чиє?"
+ },
+ {
+  "word": "offer",
+  "pos": "v",
+  "ipa": "[ˈɑː.fɚ]",
+  "tr": "пропонувати"
+ },
+ {
+  "word": "invite",
+  "pos": "v",
+  "ipa": "[ɪnˈvaɪt]",
+  "tr": "запрошувати"
+ },
+ {
+  "word": "polite",
+  "pos": "adj",
+  "ipa": "[pəˈlaɪt]",
+  "tr": "ввічливий"
+ },
+ {
+  "word": "laugh",
+  "pos": "v",
+  "ipa": "[læf]",
+  "tr": "сміятися"
+ },
+ {
+  "word": "enjoy",
+  "pos": "v",
+  "ipa": "[ɪnˈdʒɔɪ]",
+  "tr": "насолоджуватися"
+ },
+ {
+  "word": "kind",
+  "pos": "n",
+  "ipa": "[kaɪnd]",
+  "tr": "вид, різновид"
+ },
+ {
+  "word": "perhaps",
+  "pos": "adv",
+  "ipa": "[pɚˈhæps]",
+  "tr": "можливо"
+ },
+ {
+  "word": "avenue",
+  "pos": "n",
+  "ipa": "[ˈæv.ə.nuː]",
+  "tr": "проспект"
+ },
+ {
+  "word": "furniture",
+  "pos": "n",
+  "ipa": "[ˈfɝː.nɪ.tʃɚ]",
+  "tr": "меблі"
+ },
+ {
+  "word": "tin",
+  "pos": "n",
+  "ipa": "[tɪn]",
+  "tr": "консервна банка"
+ },
+ {
+  "word": "a can",
+  "pos": "n",
+  "ipa": "[ə ˈkæn]",
+  "tr": "банка (коли, спрайту)"
+ },
+ {
+  "word": "jar",
+  "pos": "n",
+  "ipa": "[dʒɑːr]",
+  "tr": "банка (для джему)"
+ },
+ {
+  "word": "loaf",
+  "pos": "n",
+  "ipa": "[loʊf]",
+  "tr": "буханка"
+ },
+ {
+  "word": "slice",
+  "pos": "n",
+  "ipa": "[slaɪs]",
+  "tr": "скибочка, шматочок"
+ },
+ {
+  "word": "jug",
+  "pos": "n",
+  "ipa": "[dʒʌɡ]",
+  "tr": "глечик"
+ },
+ {
+  "word": "bar of smth",
+  "pos": "phr",
+  "ipa": "[ˈbɑːr əv ˈsʌm.θɪŋ]",
+  "tr": "плитка шоколаду, шматок мила"
+ },
+ {
+  "word": "carton",
+  "pos": "n",
+  "ipa": "[ˈkɑːr.tən]",
+  "tr": "картонна упаковка"
+ },
+ {
+  "word": "piece",
+  "pos": "n",
+  "ipa": "[piːs]",
+  "tr": "шматочок"
+ },
+ {
+  "word": "price",
+  "pos": "n",
+  "ipa": "[praɪs]",
+  "tr": "ціна, вартість"
+ },
+ {
+  "word": "half",
+  "pos": "n",
+  "ipa": "[hæf]",
+  "tr": "половина"
+ },
+ {
+  "word": "fly",
+  "pos": "n",
+  "ipa": "[flaɪ]",
+  "tr": "муха"
+ },
+ {
+  "word": "handkerchief",
+  "pos": "n",
+  "ipa": "[ˈhæŋ.kɚ.tʃɪf]",
+  "tr": "носовичок"
+ },
+ {
+  "word": "alone",
+  "pos": "adj",
+  "ipa": "[əˈloʊn]",
+  "tr": "сам, самотній"
+ },
+ {
+  "word": "begin",
+  "pos": "v",
+  "ipa": "[bɪˈɡɪn]",
+  "tr": "починати"
+ },
+ {
+  "word": "cost",
+  "pos": "v",
+  "ipa": "[kɑːst]",
+  "tr": "коштувати"
+ },
+ {
+  "word": "bear",
+  "pos": "v",
+  "ipa": "[ber]",
+  "tr": "виносити, терпіти"
+ },
+ {
+  "word": "beat",
+  "pos": "v",
+  "ipa": "[biːt]",
+  "tr": "бити"
+ },
+ {
+  "word": "bite",
+  "pos": "v",
+  "ipa": "[baɪt]",
+  "tr": "кусати"
+ },
+ {
+  "word": "break",
+  "pos": "v",
+  "ipa": "[breɪk]",
+  "tr": "ламати, розбивати"
+ },
+ {
+  "word": "bring",
+  "pos": "v",
+  "ipa": "[brɪŋ]",
+  "tr": "приносити"
+ },
+ {
+  "word": "build",
+  "pos": "v",
+  "ipa": "[bɪld]",
+  "tr": "будувати"
+ },
+ {
+  "word": "burn",
+  "pos": "v",
+  "ipa": "[bɝːn]",
+  "tr": "палити, горіти"
+ },
+ {
+  "word": "burst",
+  "pos": "v",
+  "ipa": "[bɝːst]",
+  "tr": "лопатися, вибухати"
+ },
+ {
+  "word": "catch",
+  "pos": "v",
+  "ipa": "[kætʃ]",
+  "tr": "ловити"
+ },
+ {
+  "word": "choose",
+  "pos": "v",
+  "ipa": "[tʃuːz]",
+  "tr": "обирати"
+ },
+ {
+  "word": "deal with",
+  "pos": "v",
+  "ipa": "[ˈdiːl wɪð]",
+  "tr": "справлятися з"
+ },
+ {
+  "word": "dig",
+  "pos": "v",
+  "ipa": "[dɪɡ]",
+  "tr": "копати"
+ },
+ {
+  "word": "fix",
+  "pos": "v",
+  "ipa": "[fɪks]",
+  "tr": "лагодити"
+ },
+ {
+  "word": "delicious",
+  "pos": "adj",
+  "ipa": "[dɪˈlɪʃ.əs]",
+  "tr": "смачний"
+ },
+ {
+  "word": "water",
+  "pos": "v",
+  "ipa": "[ˈwɑː.t̬ɚ]",
+  "tr": "поливати"
+ },
+ {
+  "word": "loud",
+  "pos": "adj",
+  "ipa": "[laʊd]",
+  "tr": "гучний"
+ },
+ {
+  "word": "about",
+  "pos": "prep",
+  "ipa": "[əˈbaʊt]",
+  "tr": "про"
+ },
+ {
+  "word": "cigarette",
+  "pos": "n",
+  "ipa": "[ˌsɪɡ.əˈret]",
+  "tr": "цигарка"
+ },
+ {
+  "word": "smoke",
+  "pos": "v",
+  "ipa": "[smoʊk]",
+  "tr": "палити (курити)"
+ },
+ {
+  "word": "husband",
+  "pos": "n",
+  "ipa": "[ˈhʌz.bənd]",
+  "tr": "чоловік (у шлюбі)"
+ },
+ {
+  "word": "another",
+  "pos": "pron",
+  "ipa": "[əˈnʌð.ɚ]",
+  "tr": "інший"
+ },
+ {
+  "word": "once",
+  "pos": "adv",
+  "ipa": "[wʌns]",
+  "tr": "одного разу"
+ },
+ {
+  "word": "lay",
+  "pos": "v",
+  "ipa": "[leɪ]",
+  "tr": "класти"
+ },
+ {
+  "word": "spend",
+  "pos": "v",
+  "ipa": "[spend]",
+  "tr": "проводити (час), витрачати"
+ },
+ {
+  "word": "action",
+  "pos": "n",
+  "ipa": "[ˈæk.ʃən]",
+  "tr": "дія"
+ },
+ {
+  "word": "happen",
+  "pos": "v",
+  "ipa": "[ˈhæp.ən]",
+  "tr": "відбуватися, траплятися"
+ },
+ {
+  "word": "habit",
+  "pos": "n",
+  "ipa": "[ˈhæb.ɪt]",
+  "tr": "звичка"
+ },
+ {
+  "word": "What happened?",
+  "pos": "phr",
+  "ipa": "[ˌwʌt ˈhæp.ənd]",
+  "tr": "що сталося?"
+ },
+ {
+  "word": "band",
+  "pos": "n",
+  "ipa": "[bænd]",
+  "tr": "музичний гурт"
+ },
+ {
+  "word": "countryside",
+  "pos": "n",
+  "ipa": "[ˈkʌn.tri.saɪd]",
+  "tr": "сільська місцевість"
+ },
+ {
+  "word": "take",
+  "pos": "v",
+  "ipa": "[teɪk]",
+  "tr": "брати"
+ },
+ {
+  "word": "give",
+  "pos": "v",
+  "ipa": "[ɡɪv]",
+  "tr": "давати"
+ },
+ {
+  "word": "get",
+  "pos": "v",
+  "ipa": "[ɡet]",
+  "tr": "отримувати"
+ },
+ {
+  "word": "decide",
+  "pos": "v",
+  "ipa": "[dɪˈsaɪd]",
+  "tr": "вирішувати"
+ },
+ {
+  "word": "terrible",
+  "pos": "adj",
+  "ipa": "[ˈter.ə.bəl]",
+  "tr": "жахливий"
+ },
+ {
+  "word": "country",
+  "pos": "n",
+  "ipa": "[ˈkʌn.tri]",
+  "tr": "країна"
+ },
+ {
+  "word": "feel",
+  "pos": "v",
+  "ipa": "[fiːl]",
+  "tr": "відчувати"
+ },
+ {
+  "word": "forbid",
+  "pos": "v",
+  "ipa": "[fɚˈbɪd]",
+  "tr": "забороняти"
+ },
+ {
+  "word": "forget",
+  "pos": "v",
+  "ipa": "[fɚˈɡet]",
+  "tr": "забувати"
+ },
+ {
+  "word": "forgive",
+  "pos": "v",
+  "ipa": "[fɚˈɡɪv]",
+  "tr": "прощати"
+ },
+ {
+  "word": "customer",
+  "pos": "n",
+  "ipa": "[ˈkʌs.tə.mɚ]",
+  "tr": "покупець, замовник"
+ },
+ {
+  "word": "receive",
+  "pos": "v",
+  "ipa": "[rɪˈsiːv]",
+  "tr": "отримувати"
+ },
+ {
+  "word": "available",
+  "pos": "adj",
+  "ipa": "[əˈveɪ.lə.bəl]",
+  "tr": "доступний"
+ },
+ {
+  "word": "grocery store",
+  "pos": "n",
+  "ipa": "[ˈɡroʊ.sɚ.i ˌstɔːr]",
+  "tr": "продуктовий магазин"
+ },
+ {
+  "word": "order",
+  "pos": "v",
+  "ipa": "[ˈɔːr.dɚ]",
+  "tr": "замовляти, замовлення"
+ },
+ {
+  "word": "detect",
+  "pos": "v",
+  "ipa": "[dɪˈtekt]",
+  "tr": "виявляти"
+ },
+ {
+  "word": "include",
+  "pos": "v",
+  "ipa": "[ɪnˈkluːd]",
+  "tr": "включати в себе"
+ },
+ {
+  "word": "taste",
+  "pos": "n",
+  "ipa": "[teɪst]",
+  "tr": "смак, пробувати на смак"
+ },
+ {
+  "word": "sort out",
+  "pos": "v",
+  "ipa": "[ˌsɔːrt ˈaʊt]",
+  "tr": "розібратися, відсортувати"
+ },
+ {
+  "word": "resolution",
+  "pos": "n",
+  "ipa": "[ˌrez.əˈluː.ʃən]",
+  "tr": "рішення, резолюція"
+ },
+ {
+  "word": "assignment",
+  "pos": "n",
+  "ipa": "[əˈsaɪn.mənt]",
+  "tr": "завдання"
+ },
+ {
+  "word": "garbage",
+  "pos": "n",
+  "ipa": "[ˈɡɑːr.bɪdʒ]",
+  "tr": "сміття"
+ },
+ {
+  "word": "try",
+  "pos": "v",
+  "ipa": "[traɪ]",
+  "tr": "намагатися"
+ },
+ {
+  "word": "send",
+  "pos": "v",
+  "ipa": "[send]",
+  "tr": "відправляти"
+ },
+ {
+  "word": "be struck by",
+  "pos": "phr",
+  "ipa": "[biː ˈstrʌk baɪ]",
+  "tr": "бути враженим чимось"
+ },
+ {
+  "word": "fall off",
+  "pos": "v",
+  "ipa": "[ˌfɑːl ˈɑːf]",
+  "tr": "впасти з"
+ },
+ {
+  "word": "run into",
+  "pos": "v",
+  "ipa": "[ˌrʌn ˈɪn.tuː]",
+  "tr": "налетіти на"
+ },
+ {
+  "word": "bump into",
+  "pos": "v",
+  "ipa": "[ˌbʌmp ˈɪn.tuː]",
+  "tr": "врізатися в"
+ },
+ {
+  "word": "appear",
+  "pos": "v",
+  "ipa": "[əˈpɪr]",
+  "tr": "з'являтися"
+ },
+ {
+  "word": "scratch",
+  "pos": "v",
+  "ipa": "[skrætʃ]",
+  "tr": "подряпати"
+ },
+ {
+  "word": "confirm",
+  "pos": "v",
+  "ipa": "[kənˈfɝːm]",
+  "tr": "підтверджувати"
+ },
+ {
+  "word": "quit",
+  "pos": "v",
+  "ipa": "[kwɪt]",
+  "tr": "кидати (звичку, роботу)"
+ },
+ {
+  "word": "tip",
+  "pos": "n",
+  "ipa": "[tɪp]",
+  "tr": "порада; чайові"
+ },
+ {
+  "word": "advice",
+  "pos": "n",
+  "ipa": "[ədˈvaɪs]",
+  "tr": "порада"
+ },
+ {
+  "word": "advise",
+  "pos": "v",
+  "ipa": "[ədˈvaɪz]",
+  "tr": "радити"
+ },
+ {
+  "word": "on vacation",
+  "pos": "phr",
+  "ipa": "[ɑːn veɪˈkeɪ.ʃən]",
+  "tr": "у відпустці"
+ },
+ {
+  "word": "Congratulations!",
+  "pos": "phr",
+  "ipa": "[kənˌɡrætʃ.əˈleɪ.ʃənz]",
+  "tr": "вітаю!"
+ },
+ {
+  "word": "complain",
+  "pos": "v",
+  "ipa": "[kəmˈpleɪn]",
+  "tr": "скаржитися"
+ },
+ {
+  "word": "decade",
+  "pos": "n",
+  "ipa": "[ˈdek.eɪd]",
+  "tr": "десятиліття"
+ },
+ {
+  "word": "colleague",
+  "pos": "n",
+  "ipa": "[ˈkɑː.liːɡ]",
+  "tr": "колега"
+ },
+ {
+  "word": "co-worker",
+  "pos": "n",
+  "ipa": "[ˈkoʊˌwɝː.kɚ]",
+  "tr": "колега"
+ },
+ {
+  "word": "league",
+  "pos": "n",
+  "ipa": "[liːɡ]",
+  "tr": "ліга"
+ },
+ {
+  "word": "cuisine",
+  "pos": "n",
+  "ipa": "[kwɪˈziːn]",
+  "tr": "кухня (національна)"
+ },
+ {
+  "word": "success",
+  "pos": "n",
+  "ipa": "[səkˈses]",
+  "tr": "успіх"
+ },
+ {
+  "word": "successful",
+  "pos": "adj",
+  "ipa": "[səkˈses.fəl]",
+  "tr": "успішний"
+ },
+ {
+  "word": "successfully",
+  "pos": "adv",
+  "ipa": "[səkˈses.fəl.i]",
+  "tr": "успішно"
+ },
+ {
+  "word": "architecture",
+  "pos": "n",
+  "ipa": "[ˈɑːr.kə.tek.tʃɚ]",
+  "tr": "архітектура"
+ },
+ {
+  "word": "documentary",
+  "pos": "n",
+  "ipa": "[ˌdɑː.kjəˈmen.t̬ɚ.i]",
+  "tr": "документальний фільм"
+ },
+ {
+  "word": "climate",
+  "pos": "n",
+  "ipa": "[ˈklaɪ.mət]",
+  "tr": "клімат"
+ },
+ {
+  "word": "change",
+  "pos": "n",
+  "ipa": "[tʃeɪndʒ]",
+  "tr": "зміна, змінювати"
+ },
+ {
+  "word": "inspire",
+  "pos": "v",
+  "ipa": "[ɪnˈspaɪr]",
+  "tr": "надихати"
+ },
+ {
+  "word": "rapidly",
+  "pos": "adv",
+  "ipa": "[ˈræp.ɪd.li]",
+  "tr": "швидко"
+ },
+ {
+  "word": "challenging",
+  "pos": "adj",
+  "ipa": "[ˈtʃæl.ɪn.dʒɪŋ]",
+  "tr": "складний"
+ },
+ {
+  "word": "ability",
+  "pos": "n",
+  "ipa": "[əˈbɪl.ə.t̬i]",
+  "tr": "здібність, вміння"
+ },
+ {
+  "word": "determination",
+  "pos": "n",
+  "ipa": "[dɪˌtɝː.mɪˈneɪ.ʃən]",
+  "tr": "рішучість"
+ },
+ {
+  "word": "energetic",
+  "pos": "adj",
+  "ipa": "[ˌen.ɚˈdʒet̬.ɪk]",
+  "tr": "енергійний"
+ },
+ {
+  "word": "prepare for",
+  "pos": "v",
+  "ipa": "[prɪˈper fɔːr]",
+  "tr": "готуватися до"
+ },
+ {
+  "word": "though",
+  "pos": "conj",
+  "ipa": "[ðoʊ]",
+  "tr": "хоча"
+ },
+ {
+  "word": "at the same time",
+  "pos": "phr",
+  "ipa": "[ət ðə ˌseɪm ˈtaɪm]",
+  "tr": "водночас"
+ },
+ {
+  "word": "discuss",
+  "pos": "v",
+  "ipa": "[dɪˈskʌs]",
+  "tr": "обговорювати"
+ },
+ {
+  "word": "according to",
+  "pos": "prep",
+  "ipa": "[əˈkɔːr.dɪŋ tuː]",
+  "tr": "відповідно до"
+ },
+ {
+  "word": "report",
+  "pos": "n",
+  "ipa": "[rɪˈpɔːrt]",
+  "tr": "звіт"
+ },
+ {
+  "word": "book, booking",
+  "pos": "v",
+  "ipa": "[bʊk, ˈbʊk.ɪŋ]",
+  "tr": "бронювати, бронювання"
+ },
+ {
+  "word": "arrive",
+  "pos": "v",
+  "ipa": "[əˈraɪv]",
+  "tr": "прибувати, приїжджати"
+ },
+ {
+  "word": "decide",
+  "pos": "v",
+  "ipa": "[dɪˈsaɪd]",
+  "tr": "вирішити"
+ },
+ {
+  "word": "belong to",
+  "pos": "v",
+  "ipa": "[bɪˈlɑːŋ tuː]",
+  "tr": "належати комусь"
+ },
+ {
+  "word": "mention",
+  "pos": "n",
+  "ipa": "[ˈmen.ʃən]",
+  "tr": "згадка, згадувати"
+ },
+ {
+  "word": "unique",
+  "pos": "adj",
+  "ipa": "[juːˈniːk]",
+  "tr": "унікальний"
+ },
+ {
+  "word": "huge",
+  "pos": "adj",
+  "ipa": "[hjuːdʒ]",
+  "tr": "величезний"
+ },
+ {
+  "word": "exquisite",
+  "pos": "adj",
+  "ipa": "[ɪkˈskwɪz.ɪt]",
+  "tr": "вишуканий"
+ },
+ {
+  "word": "signature",
+  "pos": "adj",
+  "ipa": "[ˈsɪɡ.nə.tʃɚ]",
+  "tr": "фірмовий"
+ },
+ {
+  "word": "be in a hurry",
+  "pos": "phr",
+  "ipa": "[biː ɪn ə ˈhɝː.i]",
+  "tr": "поспішати (I'm in a hurry! — Я поспішаю!)"
+ },
+ {
+  "word": "amusement park",
+  "pos": "n",
+  "ipa": "[əˈmjuːz.mənt ˌpɑːrk]",
+  "tr": "парк розваг"
+ },
+ {
+  "word": "roller coaster",
+  "pos": "n",
+  "ipa": "[ˈroʊ.lɚ ˌkoʊ.stɚ]",
+  "tr": "американські гірки"
+ },
+ {
+  "word": "shot",
+  "pos": "n",
+  "ipa": "[ʃɑːt]",
+  "tr": "кадр"
+ },
+ {
+  "word": "during",
+  "pos": "prep",
+  "ipa": "[ˈdʊr.ɪŋ]",
+  "tr": "протягом"
+ },
+ {
+  "word": "still",
+  "pos": "adv",
+  "ipa": "[stɪl]",
+  "tr": "все ще"
+ },
+ {
+  "word": "entertainment",
+  "pos": "n",
+  "ipa": "[ˌen.t̬ɚˈteɪn.mənt]",
+  "tr": "розвага"
+ },
+ {
+  "word": "trampoline",
+  "pos": "n",
+  "ipa": "[ˌtræm.pəˈliːn]",
+  "tr": "батут"
+ },
+ {
+  "word": "instead of",
+  "pos": "prep",
+  "ipa": "[ɪnˈsted əv]",
+  "tr": "замість"
+ },
+ {
+  "word": "fault",
+  "pos": "n",
+  "ipa": "[fɑːlt]",
+  "tr": "вина"
+ },
+ {
+  "word": "express",
+  "pos": "v",
+  "ipa": "[ɪkˈspres]",
+  "tr": "виражати (напр. почуття)"
+ },
+ {
+  "word": "prediction",
+  "pos": "n",
+  "ipa": "[prɪˈdɪk.ʃən]",
+  "tr": "передбачення, припущення"
+ },
+ {
+  "word": "warning",
+  "pos": "n",
+  "ipa": "[ˈwɔːr.nɪŋ]",
+  "tr": "попередження"
+ },
+ {
+  "word": "offer",
+  "pos": "n",
+  "ipa": "[ˈɑː.fɚ]",
+  "tr": "пропонувати / пропозиція"
+ },
+ {
+  "word": "promise",
+  "pos": "v",
+  "ipa": "[ˈprɑː.mɪs]",
+  "tr": "обіцяти / обіцянка"
+ },
+ {
+  "word": "threat",
+  "pos": "n",
+  "ipa": "[θret]",
+  "tr": "погроза / погрожувати"
+ },
+ {
+  "word": "request",
+  "pos": "n",
+  "ipa": "[rɪˈkwest]",
+  "tr": "прохання / просити"
+ },
+ {
+  "word": "on-the-spot decision",
+  "pos": "phr",
+  "ipa": "[ˌɑːn ðə ˈspɑːt dɪˈsɪʒ.ən]",
+  "tr": "рішення, прийняте на місці"
+ },
+ {
+  "word": "opinion",
+  "pos": "n",
+  "ipa": "[əˈpɪn.jən]",
+  "tr": "думка"
+ },
+ {
+  "word": "hope",
+  "pos": "v",
+  "ipa": "[hoʊp]",
+  "tr": "сподіватися / надія"
+ },
+ {
+  "word": "probably",
+  "pos": "adv",
+  "ipa": "[ˈprɑː.bə.bli]",
+  "tr": "ймовірно, мабуть"
+ },
+ {
+  "word": "expect",
+  "pos": "v",
+  "ipa": "[ɪkˈspekt]",
+  "tr": "очікувати"
+ },
+ {
+  "word": "suppose",
+  "pos": "v",
+  "ipa": "[səˈpoʊz]",
+  "tr": "припускати"
+ },
+ {
+  "word": "certain",
+  "pos": "adj",
+  "ipa": "[ˈsɝː.tən]",
+  "tr": "певний, впевнений"
+ },
+ {
+  "word": "intention",
+  "pos": "n",
+  "ipa": "[ɪnˈten.ʃən]",
+  "tr": "намір"
+ },
+ {
+  "word": "evidence",
+  "pos": "n",
+  "ipa": "[ˈev.ə.dəns]",
+  "tr": "доказ"
+ },
+ {
+  "word": "How?",
+  "pos": "adv",
+  "ipa": "[haʊ]",
+  "tr": "як?"
+ },
+ {
+  "word": "How far?",
+  "pos": "phr",
+  "ipa": "[ˌhaʊ ˈfɑːr]",
+  "tr": "наскільки далеко?"
+ },
+ {
+  "word": "so far",
+  "pos": "phr",
+  "ipa": "[ˌsoʊ ˈfɑːr]",
+  "tr": "досі, поки що"
+ },
+ {
+  "word": "cover",
+  "pos": "v",
+  "ipa": "[ˈkʌv.ɚ]",
+  "tr": "покривати"
+ },
+ {
+  "word": "surface",
+  "pos": "n",
+  "ipa": "[ˈsɝː.fɪs]",
+  "tr": "поверхня"
+ },
+ {
+  "word": "gates",
+  "pos": "n",
+  "ipa": "[ɡeɪts]",
+  "tr": "ворота"
+ },
+ {
+  "word": "sink",
+  "pos": "v",
+  "ipa": "[sɪŋk]",
+  "tr": "тонути"
+ },
+ {
+  "word": "rock",
+  "pos": "n",
+  "ipa": "[rɑːk]",
+  "tr": "скеля"
+ },
+ {
+  "word": "rescue",
+  "pos": "v",
+  "ipa": "[ˈres.kjuː]",
+  "tr": "рятувати, порятунок"
+ },
+ {
+  "word": "remedy",
+  "pos": "n",
+  "ipa": "[ˈrem.ə.di]",
+  "tr": "ліки, засіб"
+ },
+ {
+  "word": "fortune",
+  "pos": "n",
+  "ipa": "[ˈfɔːr.tʃən]",
+  "tr": "удача"
+ },
+ {
+  "word": "fortunately",
+  "pos": "adv",
+  "ipa": "[ˈfɔːr.tʃən.ət.li]",
+  "tr": "на щастя"
+ },
+ {
+  "word": "unfortunately",
+  "pos": "adv",
+  "ipa": "[ʌnˈfɔːr.tʃən.ət.li]",
+  "tr": "на жаль"
+ },
+ {
+  "word": "bring up",
+  "pos": "v",
+  "ipa": "[ˌbrɪŋ ˈʌp]",
+  "tr": "виховувати; піднімати питання"
+ },
+ {
+  "word": "appear",
+  "pos": "v",
+  "ipa": "[əˈpɪr]",
+  "tr": "з'являтися"
+ },
+ {
+  "word": "disappear",
+  "pos": "v",
+  "ipa": "[ˌdɪs.əˈpɪr]",
+  "tr": "зникати"
+ },
+ {
+  "word": "independent",
+  "pos": "adj",
+  "ipa": "[ˌɪn.dɪˈpen.dənt]",
+  "tr": "незалежний"
+ },
+ {
+  "word": "large",
+  "pos": "adj",
+  "ipa": "[lɑːrdʒ]",
+  "tr": "великий"
+ },
+ {
+  "word": "huge",
+  "pos": "adj",
+  "ipa": "[hjuːdʒ]",
+  "tr": "величезний"
+ },
+ {
+  "word": "own",
+  "pos": "v",
+  "ipa": "[oʊn]",
+  "tr": "володіти"
+ },
+ {
+  "word": "ambulance",
+  "pos": "n",
+  "ipa": "[ˈæm.bjə.ləns]",
+  "tr": "швидка допомога"
+ },
+ {
+  "word": "injure",
+  "pos": "v",
+  "ipa": "[ˈɪn.dʒɚ]",
+  "tr": "поранити, пошкодити"
+ },
+ {
+  "word": "injury",
+  "pos": "n",
+  "ipa": "[ˈɪn.dʒɚ.i]",
+  "tr": "травма, пошкодження"
+ },
+ {
+  "word": "noisy",
+  "pos": "adj",
+  "ipa": "[ˈnɔɪ.zi]",
+  "tr": "галасливий"
+ },
+ {
+  "word": "bother",
+  "pos": "v",
+  "ipa": "[ˈbɑː.ðɚ]",
+  "tr": "турбувати"
+ },
+ {
+  "word": "admit",
+  "pos": "v",
+  "ipa": "[ədˈmɪt]",
+  "tr": "визнавати"
+ },
+ {
+  "word": "consider",
+  "pos": "v",
+  "ipa": "[kənˈsɪd.ɚ]",
+  "tr": "розглядати, обмірковувати"
+ },
+ {
+  "word": "deny",
+  "pos": "v",
+  "ipa": "[dɪˈnaɪ]",
+  "tr": "заперечувати"
+ },
+ {
+  "word": "fancy",
+  "pos": "v",
+  "ipa": "[ˈfæn.si]",
+  "tr": "хотіти, бажати"
+ },
+ {
+  "word": "imagine",
+  "pos": "v",
+  "ipa": "[ɪˈmædʒ.ɪn]",
+  "tr": "уявляти"
+ },
+ {
+  "word": "keep on",
+  "pos": "v",
+  "ipa": "[ˌkiːp ˈɑːn]",
+  "tr": "продовжувати"
+ },
+ {
+  "word": "go on",
+  "pos": "v",
+  "ipa": "[ˌɡoʊ ˈɑːn]",
+  "tr": "продовжувати"
+ },
+ {
+  "word": "keep",
+  "pos": "v",
+  "ipa": "[kiːp]",
+  "tr": "тримати, продовжувати"
+ },
+ {
+  "word": "carry on",
+  "pos": "v",
+  "ipa": "[ˌker.i ˈɑːn]",
+  "tr": "продовжувати"
+ },
+ {
+  "word": "put off",
+  "pos": "v",
+  "ipa": "[ˌpʊt ˈɑːf]",
+  "tr": "відкладати (= postpone)"
+ },
+ {
+  "word": "mind",
+  "pos": "v",
+  "ipa": "[maɪnd]",
+  "tr": "бути проти"
+ },
+ {
+  "word": "suggest",
+  "pos": "v",
+  "ipa": "[səɡˈdʒest]",
+  "tr": "пропонувати"
+ },
+ {
+  "word": "give up",
+  "pos": "v",
+  "ipa": "[ˌɡɪv ˈʌp]",
+  "tr": "здаватися, припиняти"
+ },
+ {
+  "word": "apply",
+  "pos": "v",
+  "ipa": "[əˈplaɪ]",
+  "tr": "подавати заявку, застосовувати"
+ },
+ {
+  "word": "routine",
+  "pos": "n",
+  "ipa": "[ruːˈtiːn]",
+  "tr": "рутина"
+ },
+ {
+  "word": "memory",
+  "pos": "n",
+  "ipa": "[ˈmem.ɚ.i]",
+  "tr": "пам'ять"
+ },
+ {
+  "word": "gamble",
+  "pos": "v",
+  "ipa": "[ˈɡæm.bəl]",
+  "tr": "грати в азартні ігри"
+ },
+ {
+  "word": "instead of",
+  "pos": "prep",
+  "ipa": "[ɪnˈsted əv]",
+  "tr": "замість"
+ },
+ {
+  "word": "interrupt",
+  "pos": "v",
+  "ipa": "[ˌɪn.t̬əˈrʌpt]",
+  "tr": "перебивати"
+ },
+ {
+  "word": "be afraid of",
+  "pos": "phr",
+  "ipa": "[biː əˈfreɪd əv]",
+  "tr": "боятися"
+ },
+ {
+  "word": "reliable",
+  "pos": "adj",
+  "ipa": "[rɪˈlaɪ.ə.bəl]",
+  "tr": "надійний"
+ },
+ {
+  "word": "ill",
+  "pos": "adj",
+  "ipa": "[ɪl]",
+  "tr": "хворий"
+ },
+ {
+  "word": "cheap",
+  "pos": "adj",
+  "ipa": "[tʃiːp]",
+  "tr": "дешевий"
+ },
+ {
+  "word": "breathe",
+  "pos": "v",
+  "ipa": "[briːð]",
+  "tr": "дихати"
+ },
+ {
+  "word": "earn",
+  "pos": "v",
+  "ipa": "[ɝːn]",
+  "tr": "заробляти"
+ },
+ {
+  "word": "well",
+  "pos": "adv",
+  "ipa": "[wel]",
+  "tr": "добре"
+ },
+ {
+  "word": "competition",
+  "pos": "n",
+  "ipa": "[ˌkɑːm.pəˈtɪʃ.ən]",
+  "tr": "змагання, конкуренція"
+ },
+ {
+  "word": "accept",
+  "pos": "v",
+  "ipa": "[əkˈsept]",
+  "tr": "приймати, погоджуватися"
+ },
+ {
+  "word": "thin",
+  "pos": "adj",
+  "ipa": "[θɪn]",
+  "tr": "худий, тонкий; рідкий (про волосся)"
+ },
+ {
+  "word": "simple",
+  "pos": "adj",
+  "ipa": "[ˈsɪm.pəl]",
+  "tr": "простий"
+ },
+ {
+  "word": "terrible",
+  "pos": "adj",
+  "ipa": "[ˈter.ə.bəl]",
+  "tr": "жахливий"
+ },
+ {
+  "word": "hardly",
+  "pos": "adv",
+  "ipa": "[ˈhɑːrd.li]",
+  "tr": "ледве"
+ },
+ {
+  "word": "busy",
+  "pos": "adj",
+  "ipa": "[ˈbɪz.i]",
+  "tr": "зайнятий"
+ },
+ {
+  "word": "immediately",
+  "pos": "adv",
+  "ipa": "[ɪˈmiː.di.ət.li]",
+  "tr": "негайно"
+ },
+ {
+  "word": "behave",
+  "pos": "v",
+  "ipa": "[bɪˈheɪv]",
+  "tr": "поводитися"
+ },
+ {
+  "word": "smart",
+  "pos": "adj",
+  "ipa": "[smɑːrt]",
+  "tr": "розумний"
+ },
+ {
+  "word": "shout",
+  "pos": "v",
+  "ipa": "[ʃaʊt]",
+  "tr": "кричати"
+ },
+ {
+  "word": "yell",
+  "pos": "v",
+  "ipa": "[jel]",
+  "tr": "горлати"
+ },
+ {
+  "word": "soft",
+  "pos": "adj",
+  "ipa": "[sɑːft]",
+  "tr": "м'який"
+ },
+ {
+  "word": "proud",
+  "pos": "adj",
+  "ipa": "[praʊd]",
+  "tr": "гордий"
+ },
+ {
+  "word": "quick",
+  "pos": "adj",
+  "ipa": "[kwɪk]",
+  "tr": "швидкий"
+ },
+ {
+  "word": "middle",
+  "pos": "n",
+  "ipa": "[ˈmɪd.əl]",
+  "tr": "середина"
+ },
+ {
+  "word": "sign",
+  "pos": "n",
+  "ipa": "[saɪn]",
+  "tr": "знак, напис, підпис"
+ },
+ {
+  "word": "have a nap",
+  "pos": "phr",
+  "ipa": "[ˌhæv ə ˈnæp]",
+  "tr": "подрімати"
+ },
+ {
+  "word": "well",
+  "pos": "adv",
+  "ipa": "[wel]",
+  "tr": "ну..."
+ },
+ {
+  "word": "go into / enter",
+  "pos": "v",
+  "ipa": "[ˌɡoʊ ˈɪn.tuː, ˈen.t̬ɚ]",
+  "tr": "входити"
+ },
+ {
+  "word": "at the end of",
+  "pos": "phr",
+  "ipa": "[ət ðə ˈend əv]",
+  "tr": "наприкінці чогось"
+ },
+ {
+  "word": "sail",
+  "pos": "v",
+  "ipa": "[seɪl]",
+  "tr": "плисти, ходити під вітрилом"
+ }
+]
