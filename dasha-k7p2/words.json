@@ -1,1 +1,1430 @@
-[]
+[
+ {
+  "word": "intelligent",
+  "pos": "adj",
+  "ipa": "[ɪnˈtel.ə.dʒənt]",
+  "tr": "умный, сообразительный"
+ },
+ {
+  "word": "steal",
+  "pos": "v",
+  "ipa": "[stiːl]",
+  "tr": "воровать"
+ },
+ {
+  "word": "although",
+  "pos": "conj",
+  "ipa": "[ɑːlˈðoʊ]",
+  "tr": "хотя"
+ },
+ {
+  "word": "look forward to + -ing",
+  "pos": "phr",
+  "ipa": "[lʊk ˈfɔːr.wɚd tuː]",
+  "tr": "ждать с нетерпением"
+ },
+ {
+  "word": "air",
+  "pos": "n",
+  "ipa": "[er]",
+  "tr": "воздух"
+ },
+ {
+  "word": "picture",
+  "pos": "n",
+  "ipa": "[ˈpɪk.tʃɚ]",
+  "tr": "картинка"
+ },
+ {
+  "word": "silence",
+  "pos": "n",
+  "ipa": "[ˈsaɪ.ləns]",
+  "tr": "тишина"
+ },
+ {
+  "word": "silent",
+  "pos": "adj",
+  "ipa": "[ˈsaɪ.lənt]",
+  "tr": "тихий, безмолвный"
+ },
+ {
+  "word": "bird",
+  "pos": "n",
+  "ipa": "[bɝːd]",
+  "tr": "птичка"
+ },
+ {
+  "word": "unique",
+  "pos": "adj",
+  "ipa": "[juːˈniːk]",
+  "tr": "уникальный"
+ },
+ {
+  "word": "draw",
+  "pos": "v",
+  "ipa": "[drɑː]",
+  "tr": "рисовать"
+ },
+ {
+  "word": "autumn",
+  "pos": "n",
+  "ipa": "[ˈɑː.t̬əm]",
+  "tr": "осень"
+ },
+ {
+  "word": "episode",
+  "pos": "n",
+  "ipa": "[ˈep.ə.soʊd]",
+  "tr": "серия"
+ },
+ {
+  "word": "evening",
+  "pos": "n",
+  "ipa": "[ˈiːv.nɪŋ]",
+  "tr": "вечер"
+ },
+ {
+  "word": "brave",
+  "pos": "adj",
+  "ipa": "[breɪv]",
+  "tr": "смелый, храбрый"
+ },
+ {
+  "word": "character",
+  "pos": "n",
+  "ipa": "[ˈker.ək.tɚ]",
+  "tr": "персонаж"
+ },
+ {
+  "word": "awesome",
+  "pos": "adj",
+  "ipa": "[ˈɑː.səm]",
+  "tr": "потрясающий"
+ },
+ {
+  "word": "send",
+  "pos": "v",
+  "ipa": "[send]",
+  "tr": "отправлять"
+ },
+ {
+  "word": "listen to",
+  "pos": "v",
+  "ipa": "[ˈlɪs.ən tuː]",
+  "tr": "слушать"
+ },
+ {
+  "word": "whole",
+  "pos": "adj",
+  "ipa": "[hoʊl]",
+  "tr": "весь, целый"
+ },
+ {
+  "word": "try",
+  "pos": "v",
+  "ipa": "[traɪ]",
+  "tr": "пытаться"
+ },
+ {
+  "word": "difficult",
+  "pos": "adj",
+  "ipa": "[ˈdɪf.ə.kəlt]",
+  "tr": "сложный"
+ },
+ {
+  "word": "energetic",
+  "pos": "adj",
+  "ipa": "[ˌen.ɚˈdʒet̬.ɪk]",
+  "tr": "энергичный"
+ },
+ {
+  "word": "remember",
+  "pos": "v",
+  "ipa": "[rɪˈmem.bɚ]",
+  "tr": "помнить"
+ },
+ {
+  "word": "water",
+  "pos": "v",
+  "ipa": "[ˈwɑː.t̬ɚ]",
+  "tr": "поливать"
+ },
+ {
+  "word": "neighbor",
+  "pos": "n",
+  "ipa": "[ˈneɪ.bɚ]",
+  "tr": "сосед"
+ },
+ {
+  "word": "coward",
+  "pos": "n",
+  "ipa": "[ˈkaʊ.ɚd]",
+  "tr": "трус"
+ },
+ {
+  "word": "during",
+  "pos": "prep",
+  "ipa": "[ˈdʊr.ɪŋ]",
+  "tr": "на протяжении, во время"
+ },
+ {
+  "word": "terrible",
+  "pos": "adj",
+  "ipa": "[ˈter.ə.bəl]",
+  "tr": "ужасный"
+ },
+ {
+  "word": "piece",
+  "pos": "n",
+  "ipa": "[piːs]",
+  "tr": "кусочек"
+ },
+ {
+  "word": "suddenly",
+  "pos": "adv",
+  "ipa": "[ˈsʌd.ən.li]",
+  "tr": "внезапно"
+ },
+ {
+  "word": "through",
+  "pos": "prep",
+  "ipa": "[θruː]",
+  "tr": "сквозь, через"
+ },
+ {
+  "word": "there",
+  "pos": "adv",
+  "ipa": "[ðer]",
+  "tr": "там"
+ },
+ {
+  "word": "weekend",
+  "pos": "n",
+  "ipa": "[ˈwiːk.end]",
+  "tr": "выходные"
+ },
+ {
+  "word": "everything",
+  "pos": "pron",
+  "ipa": "[ˈev.ri.θɪŋ]",
+  "tr": "всё"
+ },
+ {
+  "word": "every",
+  "pos": "adj",
+  "ipa": "[ˈev.ri]",
+  "tr": "каждый"
+ },
+ {
+  "word": "available",
+  "pos": "adj",
+  "ipa": "[əˈveɪ.lə.bəl]",
+  "tr": "доступный"
+ },
+ {
+  "word": "exactly",
+  "pos": "adv",
+  "ipa": "[ɪɡˈzækt.li]",
+  "tr": "точно"
+ },
+ {
+  "word": "wait",
+  "pos": "v",
+  "ipa": "[weɪt]",
+  "tr": "ждать"
+ },
+ {
+  "word": "instead",
+  "pos": "adv",
+  "ipa": "[ɪnˈsted]",
+  "tr": "вместо"
+ },
+ {
+  "word": "roof",
+  "pos": "n",
+  "ipa": "[ruːf]",
+  "tr": "крыша"
+ },
+ {
+  "word": "chief",
+  "pos": "adj",
+  "ipa": "[tʃiːf]",
+  "tr": "главный"
+ },
+ {
+  "word": "proof",
+  "pos": "n",
+  "ipa": "[pruːf]",
+  "tr": "доказательство"
+ },
+ {
+  "word": "bridge",
+  "pos": "n",
+  "ipa": "[brɪdʒ]",
+  "tr": "мост"
+ },
+ {
+  "word": "meal",
+  "pos": "n",
+  "ipa": "[miːl]",
+  "tr": "еда (приём пищи)"
+ },
+ {
+  "word": "fork",
+  "pos": "n",
+  "ipa": "[fɔːrk]",
+  "tr": "вилка"
+ },
+ {
+  "word": "spoon",
+  "pos": "n",
+  "ipa": "[spuːn]",
+  "tr": "ложка"
+ },
+ {
+  "word": "include",
+  "pos": "v",
+  "ipa": "[ɪnˈkluːd]",
+  "tr": "включать"
+ },
+ {
+  "word": "count",
+  "pos": "v",
+  "ipa": "[kaʊnt]",
+  "tr": "считать"
+ },
+ {
+  "word": "peace",
+  "pos": "n",
+  "ipa": "[piːs]",
+  "tr": "мир"
+ },
+ {
+  "word": "soap",
+  "pos": "n",
+  "ipa": "[soʊp]",
+  "tr": "мыло"
+ },
+ {
+  "word": "leaf",
+  "pos": "n",
+  "ipa": "[liːf]",
+  "tr": "лист"
+ },
+ {
+  "word": "be afraid of",
+  "pos": "phr",
+  "ipa": "[biː əˈfreɪd əv]",
+  "tr": "бояться чего-нибудь"
+ },
+ {
+  "word": "one day",
+  "pos": "phr",
+  "ipa": "[ˌwʌn ˈdeɪ]",
+  "tr": "однажды"
+ },
+ {
+  "word": "loud",
+  "pos": "adj",
+  "ipa": "[laʊd]",
+  "tr": "громкий"
+ },
+ {
+  "word": "loudly",
+  "pos": "adv",
+  "ipa": "[ˈlaʊd.li]",
+  "tr": "громко"
+ },
+ {
+  "word": "noise",
+  "pos": "n",
+  "ipa": "[nɔɪz]",
+  "tr": "шум"
+ },
+ {
+  "word": "despite",
+  "pos": "prep",
+  "ipa": "[dɪˈspaɪt]",
+  "tr": "несмотря на"
+ },
+ {
+  "word": "fear",
+  "pos": "n",
+  "ipa": "[fɪr]",
+  "tr": "страх"
+ },
+ {
+  "word": "possible",
+  "pos": "adj",
+  "ipa": "[ˈpɑː.sə.bəl]",
+  "tr": "возможный"
+ },
+ {
+  "word": "century",
+  "pos": "n",
+  "ipa": "[ˈsen.tʃɚ.i]",
+  "tr": "столетие, век"
+ },
+ {
+  "word": "become",
+  "pos": "v",
+  "ipa": "[bɪˈkʌm]",
+  "tr": "становиться"
+ },
+ {
+  "word": "begin",
+  "pos": "v",
+  "ipa": "[bɪˈɡɪn]",
+  "tr": "начинать"
+ },
+ {
+  "word": "bite",
+  "pos": "v",
+  "ipa": "[baɪt]",
+  "tr": "кусать"
+ },
+ {
+  "word": "blow",
+  "pos": "v",
+  "ipa": "[bloʊ]",
+  "tr": "дуть"
+ },
+ {
+  "word": "bring",
+  "pos": "v",
+  "ipa": "[brɪŋ]",
+  "tr": "приносить"
+ },
+ {
+  "word": "burn",
+  "pos": "v",
+  "ipa": "[bɝːn]",
+  "tr": "жечь, гореть"
+ },
+ {
+  "word": "burst",
+  "pos": "v",
+  "ipa": "[bɝːst]",
+  "tr": "взрываться, лопаться"
+ },
+ {
+  "word": "come",
+  "pos": "v",
+  "ipa": "[kʌm]",
+  "tr": "приходить"
+ },
+ {
+  "word": "cost",
+  "pos": "v",
+  "ipa": "[kɑːst]",
+  "tr": "стоить"
+ },
+ {
+  "word": "deal (with)",
+  "pos": "v",
+  "ipa": "[diːl wɪð]",
+  "tr": "справляться (с)"
+ },
+ {
+  "word": "dig",
+  "pos": "v",
+  "ipa": "[dɪɡ]",
+  "tr": "копать"
+ },
+ {
+  "word": "feed",
+  "pos": "v",
+  "ipa": "[fiːd]",
+  "tr": "кормить"
+ },
+ {
+  "word": "fight",
+  "pos": "v",
+  "ipa": "[faɪt]",
+  "tr": "драться"
+ },
+ {
+  "word": "forget",
+  "pos": "v",
+  "ipa": "[fɚˈɡet]",
+  "tr": "забывать"
+ },
+ {
+  "word": "forbid",
+  "pos": "v",
+  "ipa": "[fɚˈbɪd]",
+  "tr": "запрещать"
+ },
+ {
+  "word": "fairy tale",
+  "pos": "n",
+  "ipa": "[ˈfer.i ˌteɪl]",
+  "tr": "сказка"
+ },
+ {
+  "word": "exist",
+  "pos": "v",
+  "ipa": "[ɪɡˈzɪst]",
+  "tr": "существовать"
+ },
+ {
+  "word": "tiny",
+  "pos": "adj",
+  "ipa": "[ˈtaɪ.ni]",
+  "tr": "крошечный"
+ },
+ {
+  "word": "manor house",
+  "pos": "n",
+  "ipa": "[ˈmæn.ɚ ˌhaʊs]",
+  "tr": "усадьба"
+ },
+ {
+  "word": "pair",
+  "pos": "n",
+  "ipa": "[per]",
+  "tr": "пара"
+ },
+ {
+  "word": "local",
+  "pos": "adj",
+  "ipa": "[ˈloʊ.kəl]",
+  "tr": "местный"
+ },
+ {
+  "word": "then",
+  "pos": "adv",
+  "ipa": "[ðen]",
+  "tr": "тогда, потом"
+ },
+ {
+  "word": "odd",
+  "pos": "adj",
+  "ipa": "[ɑːd]",
+  "tr": "странный; лишний"
+ },
+ {
+  "word": "above",
+  "pos": "prep",
+  "ipa": "[əˈbʌv]",
+  "tr": "над"
+ },
+ {
+  "word": "beneath",
+  "pos": "prep",
+  "ipa": "[bɪˈniːθ]",
+  "tr": "под"
+ },
+ {
+  "word": "blind",
+  "pos": "adj",
+  "ipa": "[blaɪnd]",
+  "tr": "слепой"
+ },
+ {
+  "word": "upstairs",
+  "pos": "adv",
+  "ipa": "[ˌʌpˈsterz]",
+  "tr": "наверху"
+ },
+ {
+  "word": "certain",
+  "pos": "adj",
+  "ipa": "[ˈsɝː.tən]",
+  "tr": "определённый"
+ },
+ {
+  "word": "hallway",
+  "pos": "n",
+  "ipa": "[ˈhɑːl.weɪ]",
+  "tr": "коридор"
+ },
+ {
+  "word": "oak",
+  "pos": "n",
+  "ipa": "[oʊk]",
+  "tr": "дуб"
+ },
+ {
+  "word": "danger",
+  "pos": "n",
+  "ipa": "[ˈdeɪn.dʒɚ]",
+  "tr": "опасность"
+ },
+ {
+  "word": "rescue",
+  "pos": "v",
+  "ipa": "[ˈres.kjuː]",
+  "tr": "спасать, спасение"
+ },
+ {
+  "word": "fate",
+  "pos": "n",
+  "ipa": "[feɪt]",
+  "tr": "судьба"
+ },
+ {
+  "word": "overwhelming",
+  "pos": "adj",
+  "ipa": "[ˌoʊ.vɚˈwel.mɪŋ]",
+  "tr": "ошеломляющий"
+ },
+ {
+  "word": "believe",
+  "pos": "v",
+  "ipa": "[bɪˈliːv]",
+  "tr": "верить"
+ },
+ {
+  "word": "real",
+  "pos": "adj",
+  "ipa": "[ˈriː.əl]",
+  "tr": "реальный"
+ },
+ {
+  "word": "village",
+  "pos": "n",
+  "ipa": "[ˈvɪl.ɪdʒ]",
+  "tr": "деревня"
+ },
+ {
+  "word": "state",
+  "pos": "n",
+  "ipa": "[steɪt]",
+  "tr": "штат"
+ },
+ {
+  "word": "ever",
+  "pos": "adv",
+  "ipa": "[ˈev.ɚ]",
+  "tr": "когда-либо"
+ },
+ {
+  "word": "already",
+  "pos": "adv",
+  "ipa": "[ɑːlˈred.i]",
+  "tr": "уже"
+ },
+ {
+  "word": "yet",
+  "pos": "adv",
+  "ipa": "[jet]",
+  "tr": "ещё"
+ },
+ {
+  "word": "just",
+  "pos": "adv",
+  "ipa": "[dʒʌst]",
+  "tr": "только что"
+ },
+ {
+  "word": "recently",
+  "pos": "adv",
+  "ipa": "[ˈriː.sənt.li]",
+  "tr": "недавно"
+ },
+ {
+  "word": "so far",
+  "pos": "phr",
+  "ipa": "[ˌsoʊ ˈfɑːr]",
+  "tr": "до сих пор, пока"
+ },
+ {
+  "word": "since",
+  "pos": "prep",
+  "ipa": "[sɪns]",
+  "tr": "с тех пор, с"
+ },
+ {
+  "word": "for",
+  "pos": "prep",
+  "ipa": "[fɔːr]",
+  "tr": "на протяжении"
+ },
+ {
+  "word": "thirsty",
+  "pos": "adj",
+  "ipa": "[ˈθɝː.sti]",
+  "tr": "испытывающий жажду, хотеть пить"
+ },
+ {
+  "word": "be into",
+  "pos": "phr",
+  "ipa": "[biː ˈɪn.tuː]",
+  "tr": "увлекаться, нравиться"
+ },
+ {
+  "word": "hurry",
+  "pos": "v",
+  "ipa": "[ˈhɝː.i]",
+  "tr": "спешить"
+ },
+ {
+  "word": "hold",
+  "pos": "v",
+  "ipa": "[hoʊld]",
+  "tr": "держать"
+ },
+ {
+  "word": "sunbathe",
+  "pos": "v",
+  "ipa": "[ˈsʌn.beɪð]",
+  "tr": "загорать"
+ },
+ {
+  "word": "wardrobe",
+  "pos": "n",
+  "ipa": "[ˈwɔːr.droʊb]",
+  "tr": "шкаф для одежды"
+ },
+ {
+  "word": "fridge",
+  "pos": "n",
+  "ipa": "[frɪdʒ]",
+  "tr": "холодильник"
+ },
+ {
+  "word": "empty",
+  "pos": "adj",
+  "ipa": "[ˈemp.ti]",
+  "tr": "пустой"
+ },
+ {
+  "word": "sound",
+  "pos": "v",
+  "ipa": "[saʊnd]",
+  "tr": "звучать, звук"
+ },
+ {
+  "word": "disappear",
+  "pos": "v",
+  "ipa": "[ˌdɪs.əˈpɪr]",
+  "tr": "исчезать"
+ },
+ {
+  "word": "quit",
+  "pos": "v",
+  "ipa": "[kwɪt]",
+  "tr": "бросать"
+ },
+ {
+  "word": "interrupt",
+  "pos": "v",
+  "ipa": "[ˌɪn.t̬əˈrʌpt]",
+  "tr": "перебивать"
+ },
+ {
+  "word": "seem",
+  "pos": "v",
+  "ipa": "[siːm]",
+  "tr": "казаться"
+ },
+ {
+  "word": "guy",
+  "pos": "n",
+  "ipa": "[ɡaɪ]",
+  "tr": "парень"
+ },
+ {
+  "word": "smoke",
+  "pos": "v",
+  "ipa": "[smoʊk]",
+  "tr": "курить, дым"
+ },
+ {
+  "word": "action",
+  "pos": "n",
+  "ipa": "[ˈæk.ʃən]",
+  "tr": "действие"
+ },
+ {
+  "word": "express",
+  "pos": "v",
+  "ipa": "[ɪkˈspres]",
+  "tr": "выразить"
+ },
+ {
+  "word": "prediction",
+  "pos": "n",
+  "ipa": "[prɪˈdɪk.ʃən]",
+  "tr": "предсказание, предположение"
+ },
+ {
+  "word": "warning",
+  "pos": "n",
+  "ipa": "[ˈwɔːr.nɪŋ]",
+  "tr": "предупреждение"
+ },
+ {
+  "word": "offer",
+  "pos": "v",
+  "ipa": "[ˈɑː.fɚ]",
+  "tr": "предлагать, предложение"
+ },
+ {
+  "word": "promise",
+  "pos": "v",
+  "ipa": "[ˈprɑː.mɪs]",
+  "tr": "обещать, обещание"
+ },
+ {
+  "word": "threat",
+  "pos": "n",
+  "ipa": "[θret]",
+  "tr": "угрожать, угроза"
+ },
+ {
+  "word": "request",
+  "pos": "n",
+  "ipa": "[rɪˈkwest]",
+  "tr": "запрашивать, просьба"
+ },
+ {
+  "word": "on-the-spot decision",
+  "pos": "phr",
+  "ipa": "[ˌɑːn ðə ˈspɑːt dɪˈsɪʒ.ən]",
+  "tr": "решение, принятое на месте"
+ },
+ {
+  "word": "opinion",
+  "pos": "n",
+  "ipa": "[əˈpɪn.jən]",
+  "tr": "мнение"
+ },
+ {
+  "word": "hope",
+  "pos": "v",
+  "ipa": "[hoʊp]",
+  "tr": "надеяться, надежда"
+ },
+ {
+  "word": "probably",
+  "pos": "adv",
+  "ipa": "[ˈprɑː.bə.bli]",
+  "tr": "возможно, пожалуй"
+ },
+ {
+  "word": "expect",
+  "pos": "v",
+  "ipa": "[ɪkˈspekt]",
+  "tr": "ожидать"
+ },
+ {
+  "word": "suppose",
+  "pos": "v",
+  "ipa": "[səˈpoʊz]",
+  "tr": "предполагать"
+ },
+ {
+  "word": "certain",
+  "pos": "adj",
+  "ipa": "[ˈsɝː.tən]",
+  "tr": "определённый"
+ },
+ {
+  "word": "intention",
+  "pos": "n",
+  "ipa": "[ɪnˈten.ʃən]",
+  "tr": "намерение"
+ },
+ {
+  "word": "evidence",
+  "pos": "n",
+  "ipa": "[ˈev.ə.dəns]",
+  "tr": "доказательство, улика"
+ },
+ {
+  "word": "mustache",
+  "pos": "n",
+  "ipa": "[ˈmʌs.tæʃ]",
+  "tr": "усы"
+ },
+ {
+  "word": "explore",
+  "pos": "v",
+  "ipa": "[ɪkˈsplɔːr]",
+  "tr": "исследовать"
+ },
+ {
+  "word": "make sure",
+  "pos": "phr",
+  "ipa": "[ˌmeɪk ˈʃʊr]",
+  "tr": "убедиться"
+ },
+ {
+  "word": "dress up",
+  "pos": "v",
+  "ipa": "[ˌdres ˈʌp]",
+  "tr": "наряжаться, одевать"
+ },
+ {
+  "word": "pester",
+  "pos": "v",
+  "ipa": "[ˈpes.tɚ]",
+  "tr": "докучать, донимать"
+ },
+ {
+  "word": "help",
+  "pos": "v",
+  "ipa": "[help]",
+  "tr": "помогать"
+ },
+ {
+  "word": "litter",
+  "pos": "n",
+  "ipa": "[ˈlɪt̬.ɚ]",
+  "tr": "мусор"
+ },
+ {
+  "word": "rubbish",
+  "pos": "n",
+  "ipa": "[ˈrʌb.ɪʃ]",
+  "tr": "мусор"
+ },
+ {
+  "word": "necessity",
+  "pos": "n",
+  "ipa": "[nəˈses.ə.t̬i]",
+  "tr": "необходимость"
+ },
+ {
+  "word": "obligation",
+  "pos": "n",
+  "ipa": "[ˌɑː.bləˈɡeɪ.ʃən]",
+  "tr": "обязанность"
+ },
+ {
+  "word": "lack of",
+  "pos": "phr",
+  "ipa": "[ˈlæk əv]",
+  "tr": "нехватка, недостаток"
+ },
+ {
+  "word": "plenty of",
+  "pos": "phr",
+  "ipa": "[ˈplen.t̬i əv]",
+  "tr": "множество, много"
+ },
+ {
+  "word": "tonight",
+  "pos": "adv",
+  "ipa": "[təˈnaɪt]",
+  "tr": "сегодня вечером"
+ },
+ {
+  "word": "plant",
+  "pos": "n",
+  "ipa": "[plænt]",
+  "tr": "растение"
+ },
+ {
+  "word": "rumors",
+  "pos": "n",
+  "ipa": "[ˈruː.mɚz]",
+  "tr": "слухи"
+ },
+ {
+  "word": "break up",
+  "pos": "v",
+  "ipa": "[ˌbreɪk ˈʌp]",
+  "tr": "расстаться"
+ },
+ {
+  "word": "marry",
+  "pos": "v",
+  "ipa": "[ˈmer.i]",
+  "tr": "жениться, выйти замуж"
+ },
+ {
+  "word": "offend",
+  "pos": "v",
+  "ipa": "[əˈfend]",
+  "tr": "обижать"
+ },
+ {
+  "word": "No offense!",
+  "pos": "phr",
+  "ipa": "[ˌnoʊ əˈfens]",
+  "tr": "без обид!"
+ },
+ {
+  "word": "None taken :)",
+  "pos": "phr",
+  "ipa": "[ˌnʌn ˈteɪ.kən]",
+  "tr": "всё ок"
+ },
+ {
+  "word": "immediately",
+  "pos": "adv",
+  "ipa": "[ɪˈmiː.di.ət.li]",
+  "tr": "сразу"
+ },
+ {
+  "word": "empty",
+  "pos": "adj",
+  "ipa": "[ˈemp.ti]",
+  "tr": "пустой"
+ },
+ {
+  "word": "typewriter",
+  "pos": "n",
+  "ipa": "[ˈtaɪpˌraɪ.t̬ɚ]",
+  "tr": "печатная машинка"
+ },
+ {
+  "word": "keyboard",
+  "pos": "n",
+  "ipa": "[ˈkiː.bɔːrd]",
+  "tr": "клавиатура"
+ },
+ {
+  "word": "heir",
+  "pos": "n",
+  "ipa": "[er]",
+  "tr": "наследник"
+ },
+ {
+  "word": "after",
+  "pos": "prep",
+  "ipa": "[ˈæf.tɚ]",
+  "tr": "после"
+ },
+ {
+  "word": "scream",
+  "pos": "v",
+  "ipa": "[skriːm]",
+  "tr": "вскрикнуть, кричать"
+ },
+ {
+  "word": "at the same time",
+  "pos": "phr",
+  "ipa": "[ət ðə ˌseɪm ˈtaɪm]",
+  "tr": "в то же время"
+ },
+ {
+  "word": "simultaneously",
+  "pos": "adv",
+  "ipa": "[ˌsaɪ.məlˈteɪ.ni.əs.li]",
+  "tr": "одновременно"
+ },
+ {
+  "word": "stick",
+  "pos": "n",
+  "ipa": "[stɪk]",
+  "tr": "ветка, палка"
+ },
+ {
+  "word": "right",
+  "pos": "adv",
+  "ipa": "[raɪt]",
+  "tr": "прямо"
+ },
+ {
+  "word": "directly",
+  "pos": "adv",
+  "ipa": "[dɪˈrekt.li]",
+  "tr": "прямо, напрямую"
+ },
+ {
+  "word": "painful",
+  "pos": "adj",
+  "ipa": "[ˈpeɪn.fəl]",
+  "tr": "болезненный"
+ },
+ {
+  "word": "shout",
+  "pos": "v",
+  "ipa": "[ʃaʊt]",
+  "tr": "кричать"
+ },
+ {
+  "word": "niche",
+  "pos": "n",
+  "ipa": "[nɪtʃ]",
+  "tr": "ниша"
+ },
+ {
+  "word": "newbie",
+  "pos": "n",
+  "ipa": "[ˈnuː.bi]",
+  "tr": "новичок"
+ },
+ {
+  "word": "just",
+  "pos": "adv",
+  "ipa": "[dʒʌst]",
+  "tr": "только, лишь"
+ },
+ {
+  "word": "realize",
+  "pos": "v",
+  "ipa": "[ˈriː.ə.laɪz]",
+  "tr": "осознавать"
+ },
+ {
+  "word": "belong",
+  "pos": "v",
+  "ipa": "[bɪˈlɑːŋ]",
+  "tr": "принадлежать"
+ },
+ {
+  "word": "fill",
+  "pos": "v",
+  "ipa": "[fɪl]",
+  "tr": "заполнить"
+ },
+ {
+  "word": "cookbook",
+  "pos": "n",
+  "ipa": "[ˈkʊk.bʊk]",
+  "tr": "книга рецептов"
+ },
+ {
+  "word": "simple",
+  "pos": "adj",
+  "ipa": "[ˈsɪm.pəl]",
+  "tr": "простой"
+ },
+ {
+  "word": "discuss",
+  "pos": "v",
+  "ipa": "[dɪˈskʌs]",
+  "tr": "обсуждать"
+ },
+ {
+  "word": "various",
+  "pos": "adj",
+  "ipa": "[ˈver.i.əs]",
+  "tr": "различный"
+ },
+ {
+  "word": "topic",
+  "pos": "n",
+  "ipa": "[ˈtɑː.pɪk]",
+  "tr": "тема"
+ },
+ {
+  "word": "participate",
+  "pos": "v",
+  "ipa": "[pɑːrˈtɪs.ə.peɪt]",
+  "tr": "принимать участие"
+ },
+ {
+  "word": "invite",
+  "pos": "v",
+  "ipa": "[ɪnˈvaɪt]",
+  "tr": "приглашать"
+ },
+ {
+  "word": "be interested in",
+  "pos": "phr",
+  "ipa": "[biː ˈɪn.trə.stɪd ɪn]",
+  "tr": "интересоваться"
+ },
+ {
+  "word": "wonder",
+  "pos": "v",
+  "ipa": "[ˈwʌn.dɚ]",
+  "tr": "задаваться вопросом"
+ },
+ {
+  "word": "adore",
+  "pos": "v",
+  "ipa": "[əˈdɔːr]",
+  "tr": "обожать"
+ },
+ {
+  "word": "fauna",
+  "pos": "n",
+  "ipa": "[ˈfɑː.nə]",
+  "tr": "фауна"
+ },
+ {
+  "word": "pack up",
+  "pos": "v",
+  "ipa": "[ˌpæk ˈʌp]",
+  "tr": "паковать"
+ },
+ {
+  "word": "vehicle",
+  "pos": "n",
+  "ipa": "[ˈviː.ə.kəl]",
+  "tr": "транспортное средство, автомобиль"
+ },
+ {
+  "word": "suggestion",
+  "pos": "n",
+  "ipa": "[səɡˈdʒes.tʃən]",
+  "tr": "предложение"
+ },
+ {
+  "word": "insane",
+  "pos": "adj",
+  "ipa": "[ɪnˈseɪn]",
+  "tr": "безумный"
+ },
+ {
+  "word": "prefer",
+  "pos": "v",
+  "ipa": "[prɪˈfɝː]",
+  "tr": "предпочитать"
+ },
+ {
+  "word": "will",
+  "pos": "n",
+  "ipa": "[wɪl]",
+  "tr": "завещание, воля"
+ },
+ {
+  "word": "besides",
+  "pos": "adv",
+  "ipa": "[bɪˈsaɪdz]",
+  "tr": "кроме того"
+ },
+ {
+  "word": "workout",
+  "pos": "n",
+  "ipa": "[ˈwɝːk.aʊt]",
+  "tr": "тренировка"
+ },
+ {
+  "word": "horseback riding",
+  "pos": "n",
+  "ipa": "[ˈhɔːrs.bæk ˌraɪ.dɪŋ]",
+  "tr": "верховая езда"
+ },
+ {
+  "word": "suddenly",
+  "pos": "adv",
+  "ipa": "[ˈsʌd.ən.li]",
+  "tr": "внезапно, вдруг"
+ },
+ {
+  "word": "tease",
+  "pos": "v",
+  "ipa": "[tiːz]",
+  "tr": "дразнить"
+ },
+ {
+  "word": "Whose?",
+  "pos": "pron",
+  "ipa": "[huːz]",
+  "tr": "чей?"
+ },
+ {
+  "word": "Which (one)?",
+  "pos": "pron",
+  "ipa": "[ˈwɪtʃ wʌn]",
+  "tr": "какой (-ая)?"
+ },
+ {
+  "word": "foreign",
+  "pos": "adj",
+  "ipa": "[ˈfɔːr.ən]",
+  "tr": "иностранный"
+ },
+ {
+  "word": "serve",
+  "pos": "v",
+  "ipa": "[sɝːv]",
+  "tr": "подавать (про еду)"
+ },
+ {
+  "word": "view",
+  "pos": "n",
+  "ipa": "[vjuː]",
+  "tr": "вид"
+ },
+ {
+  "word": "admire",
+  "pos": "v",
+  "ipa": "[ədˈmaɪr]",
+  "tr": "восхищаться"
+ },
+ {
+  "word": "invent",
+  "pos": "v",
+  "ipa": "[ɪnˈvent]",
+  "tr": "изобретать"
+ },
+ {
+  "word": "fill",
+  "pos": "v",
+  "ipa": "[fɪl]",
+  "tr": "наполнять"
+ },
+ {
+  "word": "show",
+  "pos": "v",
+  "ipa": "[ʃoʊ]",
+  "tr": "показывать"
+ },
+ {
+  "word": "send out",
+  "pos": "v",
+  "ipa": "[ˌsend ˈaʊt]",
+  "tr": "рассылать, посылать"
+ },
+ {
+  "word": "fate",
+  "pos": "n",
+  "ipa": "[feɪt]",
+  "tr": "судьба"
+ },
+ {
+  "word": "accept",
+  "pos": "v",
+  "ipa": "[əkˈsept]",
+  "tr": "принимать"
+ },
+ {
+  "word": "during",
+  "pos": "prep",
+  "ipa": "[ˈdʊr.ɪŋ]",
+  "tr": "на протяжении"
+ },
+ {
+  "word": "advise",
+  "pos": "v",
+  "ipa": "[ədˈvaɪz]",
+  "tr": "советовать"
+ },
+ {
+  "word": "advice",
+  "pos": "n",
+  "ipa": "[ədˈvaɪs]",
+  "tr": "совет"
+ },
+ {
+  "word": "praise",
+  "pos": "v",
+  "ipa": "[preɪz]",
+  "tr": "хвалить"
+ },
+ {
+  "word": "correct",
+  "pos": "v",
+  "ipa": "[kəˈrekt]",
+  "tr": "исправить"
+ },
+ {
+  "word": "heal",
+  "pos": "v",
+  "ipa": "[hiːl]",
+  "tr": "лечить, заживать"
+ },
+ {
+  "word": "guilty",
+  "pos": "adj",
+  "ipa": "[ˈɡɪl.ti]",
+  "tr": "виновен, виноватый"
+ },
+ {
+  "word": "abroad",
+  "pos": "adv",
+  "ipa": "[əˈbrɑːd]",
+  "tr": "за границу, за границей"
+ },
+ {
+  "word": "action",
+  "pos": "n",
+  "ipa": "[ˈæk.ʃən]",
+  "tr": "действие"
+ },
+ {
+  "word": "also",
+  "pos": "adv",
+  "ipa": "[ˈɑːl.soʊ]",
+  "tr": "также"
+ },
+ {
+  "word": "interrupt",
+  "pos": "v",
+  "ipa": "[ˌɪn.t̬əˈrʌpt]",
+  "tr": "перебивать, прерывать"
+ },
+ {
+  "word": "omit",
+  "pos": "v",
+  "ipa": "[oʊˈmɪt]",
+  "tr": "пропускать"
+ },
+ {
+  "word": "serve",
+  "pos": "v",
+  "ipa": "[sɝːv]",
+  "tr": "подавать на стол"
+ },
+ {
+  "word": "chase",
+  "pos": "v",
+  "ipa": "[tʃeɪs]",
+  "tr": "гнаться, преследовать"
+ },
+ {
+  "word": "crazy",
+  "pos": "adj",
+  "ipa": "[ˈkreɪ.zi]",
+  "tr": "сумасшедший"
+ },
+ {
+  "word": "glad",
+  "pos": "adj",
+  "ipa": "[ɡlæd]",
+  "tr": "рад"
+ },
+ {
+  "word": "change",
+  "pos": "v",
+  "ipa": "[tʃeɪndʒ]",
+  "tr": "менять"
+ },
+ {
+  "word": "call",
+  "pos": "v",
+  "ipa": "[kɑːl]",
+  "tr": "называть"
+ },
+ {
+  "word": "wizard",
+  "pos": "n",
+  "ipa": "[ˈwɪz.ɚd]",
+  "tr": "волшебник"
+ },
+ {
+  "word": "wicked",
+  "pos": "adj",
+  "ipa": "[ˈwɪk.ɪd]",
+  "tr": "злой, злобный"
+ },
+ {
+  "word": "creature",
+  "pos": "n",
+  "ipa": "[ˈkriː.tʃɚ]",
+  "tr": "создание, существо"
+ },
+ {
+  "word": "broomstick",
+  "pos": "n",
+  "ipa": "[ˈbruːm.stɪk]",
+  "tr": "метла"
+ },
+ {
+  "word": "be sure about",
+  "pos": "phr",
+  "ipa": "[biː ˈʃʊr əˌbaʊt]",
+  "tr": "быть уверенным в"
+ },
+ {
+  "word": "mutual",
+  "pos": "adj",
+  "ipa": "[ˈmjuː.tʃu.əl]",
+  "tr": "общий, взаимный"
+ },
+ {
+  "word": "purpose",
+  "pos": "n",
+  "ipa": "[ˈpɝː.pəs]",
+  "tr": "цель, намерение"
+ }
+]
