@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
@@ -18,21 +18,43 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - name: Restore recorded audio
-        uses: actions/cache@v4
+      # One-time seed: older recordings lived only in the Actions cache.
+      - name: Restore older recordings
+        uses: actions/cache/restore@v4
         with:
           path: audio
-          key: audio-kokoro-${{ hashFiles('*/words.json') }}
+          key: audio-kokoro-seed
           restore-keys: audio-kokoro-
+      - name: Count words without audio
+        id: need
+        run: echo "count=$(python3 tts.py --count)" >> "$GITHUB_OUTPUT"
+      - name: Restore voice engine
+        if: steps.need.outputs.count != '0'
+        id: venv
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/tts-venv
+            ~/.cache/huggingface
+          key: tts-venv-kokoro-v1
       - name: Record male US voice for new words
+        if: steps.need.outputs.count != '0'
         run: |
-          sudo apt-get install -y -qq ffmpeg espeak-ng >/dev/null
-          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
-          pip install -q "kokoro>=0.9.4" soundfile
-          python3 tts.py
+          sudo apt-get install -y -qq --no-install-recommends ffmpeg espeak-ng >/dev/null
+          if [ ! -x ~/tts-venv/bin/python ]; then
+            python3 -m venv ~/tts-venv
+            ~/tts-venv/bin/pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+            ~/tts-venv/bin/pip install -q "kokoro>=0.9.4" soundfile
+          fi
+          ~/tts-venv/bin/python tts.py
+      - name: Save recordings to the repository
+        if: steps.need.outputs.count != '0'
+        run: |
+          git config user.name "vocab-bot"
+          git config user.email "vocab-bot@users.noreply.github.com"
+          git add audio
+          git commit -q -m "Add pronunciation audio [skip ci]" || exit 0
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done
       - run: python3 build.py && touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
