@@ -36,12 +36,13 @@ jobs:
           path: |
             ~/tts-venv
             ~/.cache/huggingface
-          key: tts-venv-kokoro-v1
+          key: tts-venv-kokoro-v2
       - name: Record male US voice for new words
         if: steps.need.outputs.count != '0'
         run: |
           sudo apt-get install -y -qq --no-install-recommends ffmpeg espeak-ng >/dev/null
-          if [ ! -x ~/tts-venv/bin/python ]; then
+          if ! ~/tts-venv/bin/python -c "import numpy, soundfile, kokoro" 2>/dev/null; then
+            rm -rf ~/tts-venv
             python3 -m venv ~/tts-venv
             ~/tts-venv/bin/pip install -q torch --index-url https://download.pytorch.org/whl/cpu
             ~/tts-venv/bin/pip install -q "kokoro>=0.9.4" soundfile
