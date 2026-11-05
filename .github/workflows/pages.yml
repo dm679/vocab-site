@@ -18,6 +18,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       # One-time seed: older recordings lived only in the Actions cache.
       - name: Restore older recordings
         uses: actions/cache/restore@v4
@@ -36,7 +39,7 @@ jobs:
           path: |
             ~/tts-venv
             ~/.cache/huggingface
-          key: tts-venv-kokoro-v2
+          key: tts-venv-kokoro-v3
       - name: Record male US voice for new words
         if: steps.need.outputs.count != '0'
         run: |
